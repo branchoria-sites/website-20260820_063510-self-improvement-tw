@@ -1,0 +1,3348 @@
+{
+  "generated_at": "2026-08-20T06:28:32",
+  "passed": true,
+  "baseline": {
+    "article_pages": 272,
+    "amazon_specific_pages": 231,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "self_improvement_tha_c01280": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_minimum_useful_adjus_32bc7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_repeated_failure_win_3f08b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_retest_failure_condi_b669fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_failure_type_13d860": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_fallback_mod_1c0477": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_goal_contr_7068c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_metrics_qu_38f726": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_if_then_plans_58a9d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_outcomes_to_actions_8e9647": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_automatic_routine_st_3f7b32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_low_frequency_habit_99db7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_preparation_failure_86fb90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_stable_context_compl_3bc2a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_one_missed_day_habit_770103": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_automaticity_learnin_9cd7b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_habits_under_cogniti_35a582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_missed_repetitions_h_d67f4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_stable_context_autom_b4e08a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_time_vs_routine_cues_73f5c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_choice_overload_limi_f63247": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_decision_fatigue_cla_3c31bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_exact_time_action_wi_11a11f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_preplanned_action_se_639d72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_cue_at_action_start_cc34ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_reminder_background_b61d10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_routine_vs_time_cues_8880c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_specific_vs_general_ed9c1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_stable_context_autom_b4e08a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_greyscale_phone_use_35aaad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_impulse_buying_frict_b476ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_notification_batchin_8e9a89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_shopping_defaults_87d2bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_temptation_bundling_177a03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_exercise_session_rec_bf079c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_exercise_starting_ri_6c9847": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_fallback_home_workou_ad9aa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_minimum_workout_star_f013c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_effort_vs_strategy_d_484112": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_extreme_stretch_goal_61e684": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_goal_difficulty_curr_146b5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_hard_goals_novice_pe_0a6b98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_morning_evening_habi_29ebb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_origin_of_21_day_myt_b64b3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_what_66_days_really_28bf05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_wide_habit_timeline_dc4f84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_cue_failure_3c28f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_recovery_after_e2887d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_startup_fricti_94ef9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_timing_mismatc_de5a51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_shrink_overlarge_hab_e91a83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_choosing_reliable_cu_d2d8ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_if_then_plan_specifi_09d47d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_strong_habit_limits_dfb19b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_weak_motivation_limi_497fdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyable_habit_vers_2b4030": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_external_reward_pitf_42a96c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_reward_timing_habits_9ef38b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_temptation_bundling_177a03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_explanation_learning_ff65c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_measuring_learning_g_c07a6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_strategy_discovery_g_2f1876": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_switch_to_performanc_3624de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_test_compare_learnin_559df1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_component_cooking_va_18d321": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_emergency_freezer_me_97bd36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_ingredient_prep_week_edd377": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_minimum_prep_conveni_235c8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_pre_portioned_meals_69cc2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_behaviour_before_out_b06df3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_measure_current_unce_e58dd1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_retire_finished_metr_b2caaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_simplified_food_trac_37732c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_study_sessions_to_re_e7a6c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_one_missed_day_habit_6826e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_stable_cues_after_la_9d56e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_streaks_vs_habit_pro_66fffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_actionable_feedback_19ee3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_activity_feedback_ev_b33052": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_human_vs_algorithm_f_9b4c31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_just_in_time_feedbac_1f67d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_more_feedback_not_be_769690": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_autonomous_motivatio_413f6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_daily_motivation_swi_1041b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_exercise_intention_g_11d9c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_habit_automaticity_l_467fd9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_stable_context_habit_664509": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_adaptive_reminder_ti_c43ce8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_dynamic_personalizat_eae25c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_feedback_fit_behavio_5facec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_habit_timing_variati_3eda2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_need_vs_receptivity_2a9489": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_goal_metric_fixation_ca2ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_learning_before_targ_468791": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_noisy_outcome_metric_3660ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_process_goals_execut_cf86d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_written_progress_log_2cf0e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_acute_exercise_cogni_e54908": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_sleep_capac_732c85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_volume_trad_abd7e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_fallback_workouts_a6785b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_start_below_guidelin_595302": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_digital_temptation_b_50d20b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_money_stake_commitme_9849f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_real_vs_self_deadlin_bdaf2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_right_sized_precommi_548fe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_missed_session_patte_2fd6eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_objective_sedentary_fe036f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_progress_avoidance_o_c99ed0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_progress_reporting_a_0fc67c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_progress_tracking_ef_6cf48d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_friction_diminishing_b6a2ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_friction_unwanted_ha_0a8e6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_gym_distance_adheren_f295ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_prepare_habit_enviro_aced7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_reduce_habit_decisio_e6cf17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_graded_habit_increas_3c75ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_consis_eae060": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_readin_020764": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_one_variable_habit_s_69d716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_stable_cues_when_sca_0116c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_fragmented_sleep_att_d204e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_one_night_attention_6998e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_repeated_sleep_vigil_95a45c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_subjective_adaptatio_6d05c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_repeated_short_sleep_0eef69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleepiness_performan_798cd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_attention_laps_c5564e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_effort_allocat_b578bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_first_planning_b63b3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_short_sleep_daily_st_a3be93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_loss_effort_co_adcb04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_positive_affec_76c7f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_automatic_habit_star_f80818": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_flexible_habit_cues_760ae5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_habit_floor_757e65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_missed_habit_days_57525c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_accountability_press_46445a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_goals_vs_progress_re_348921": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_reporting_completed_e3d3d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_social_visibility_pr_b99e32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_supportive_accountab_9f93b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_impulse_purchase_wai_3499cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_real_time_spending_f_f99cc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_saved_cards_checkout_9a3129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_short_shopping_delay_4cce4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_single_category_impu_608136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_existing_routine_anc_4c1156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_habit_context_variat_acc33c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_missed_habit_repetit_14a2da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_routine_vs_time_cues_8880c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_workable_habit_cues_d38303": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_phone_distance_study_eb5389": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_social_media_substit_56dcad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_stable_study_context_401180": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_immediate_enjoyment_6384d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_real_world_gym_effec_bb1327": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_restricting_temptati_556478": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_reward_context_cues_fef9c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_temptation_bundle_ro_5f48e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_behavioral_friction_90e845": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_early_self_control_a17467": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_ego_depletion_limits_b4faa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_habit_formation_time_789385": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_temptation_exposure_39be2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_end_day_setup_creep_2c90ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_restart_plan_mental_891b8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_visible_next_action_c256aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_workspace_memory_cue_f60f1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_binary_habit_trackin_da7428": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_measurement_reactivi_2cc9ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_missed_session_patte_2fd6eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_near_event_logging_e728c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_paper_vs_digital_tra_0db3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 282,
+    "amazon_specific_pages": 241,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "self_improvement_tha_c01280": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_minimum_useful_adjus_32bc7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_repeated_failure_win_3f08b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_retest_failure_condi_b669fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_failure_type_13d860": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_fallback_mod_1c0477": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_goal_contr_7068c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_metrics_qu_38f726": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_if_then_plans_58a9d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_behaviour_goals_967921_outcomes_to_actions_8e9647": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_automatic_routine_st_3f7b32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_low_frequency_habit_99db7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_preparation_failure_86fb90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_complex_habits_50cb4b_stable_context_compl_3bc2a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_habit_recovery_metri_8e244d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_next_normal_habit_cu_f24fb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_one_missed_day_habit_770103": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_consistency_not_perf_a22660_stable_context_habit_664509": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_automaticity_learnin_9cd7b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_habits_under_cogniti_35a582": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_missed_repetitions_h_d67f4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_stable_context_autom_b4e08a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_cue_response_learnin_81d4a0_time_vs_routine_cues_73f5c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_choice_overload_limi_f63247": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_decision_fatigue_cla_3c31bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_exact_time_action_wi_11a11f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_preplanned_action_se_639d72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_cue_at_action_start_cc34ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_reminder_background_b61d10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_routine_vs_time_cues_8880c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_specific_vs_general_ed9c1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environmental_cues_e06b07_stable_context_autom_b4e08a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_greyscale_phone_use_35aaad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_impulse_buying_frict_b476ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_notification_batchin_8e9a89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_shopping_defaults_87d2bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_environment_design_133edb_temptation_bundling_177a03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_growth_mindset_meta_2173ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_habit_66_day_myth_f43554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_self_regulation_mech_36b436": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_evidence_quality_ef04cc_visible_progress_tra_29ec5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_exercise_session_rec_bf079c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_exercise_starting_ri_6c9847": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_fallback_home_workou_ad9aa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_exercise_systems_edd719_minimum_workout_star_f013c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_effort_vs_strategy_d_484112": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_extreme_stretch_goal_61e684": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_goal_difficulty_curr_146b5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_hard_goals_novice_pe_0a6b98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_goal_difficulty_5a5ec2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_morning_evening_habi_29ebb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_origin_of_21_day_myt_b64b3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_what_66_days_really_28bf05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_formation_time_49cd57_wide_habit_timeline_dc4f84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_cue_failure_3c28f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_recovery_after_e2887d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_startup_fricti_94ef9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_timing_mismatc_de5a51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_habit_troubleshootin_85f11e_shrink_overlarge_hab_e91a83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_choosing_reliable_cu_d2d8ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_if_then_plan_specifi_09d47d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_strong_habit_limits_dfb19b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_if_then_plans_58a9d0_weak_motivation_limi_497fdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyable_habit_vers_2b4030": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_external_reward_pitf_42a96c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_reward_timing_habits_9ef38b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_immediate_rewards_b274b1_temptation_bundling_177a03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_explanation_learning_ff65c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_measuring_learning_g_c07a6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_strategy_discovery_g_2f1876": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_switch_to_performanc_3624de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_learning_goals_d057c5_test_compare_learnin_559df1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_component_cooking_va_18d321": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_emergency_freezer_me_97bd36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_ingredient_prep_week_edd377": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_minimum_prep_conveni_235c8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_meal_preparation_b97ced_pre_portioned_meals_69cc2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_behaviour_before_out_b06df3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_measure_current_unce_e58dd1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_retire_finished_metr_b2caaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_simplified_food_trac_37732c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_minimal_metrics_e2c419_study_sessions_to_re_e7a6c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_one_missed_day_habit_6826e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_stable_cues_after_la_9d56e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_missed_days_68e864_streaks_vs_habit_pro_66fffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_actionable_feedback_19ee3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_activity_feedback_ev_b33052": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_human_vs_algorithm_f_9b4c31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_just_in_time_feedbac_1f67d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_monitoring_feedback_0281a9_more_feedback_not_be_769690": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_autonomous_motivatio_413f6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_daily_motivation_swi_1041b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_exercise_intention_g_11d9c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_habit_automaticity_l_467fd9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_motivation_limits_12bd47_stable_context_habit_664509": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_adaptive_reminder_ti_c43ce8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_dynamic_personalizat_eae25c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_feedback_fit_behavio_5facec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_habit_timing_variati_3eda2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_no_magic_formula_7b68b2_need_vs_receptivity_2a9489": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_goal_metric_fixation_ca2ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_learning_before_targ_468791": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_noisy_outcome_metric_3660ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_process_goals_execut_cf86d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_written_progress_log_2cf0e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_acute_exercise_cogni_e54908": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_sleep_capac_732c85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_volume_trad_abd7e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_fallback_workouts_a6785b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_start_below_guidelin_595302": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_digital_temptation_b_50d20b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_money_stake_commitme_9849f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_real_vs_self_deadlin_bdaf2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_precommitment_2d35ae_right_sized_precommi_548fe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_missed_session_patte_2fd6eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_objective_sedentary_fe036f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_progress_avoidance_o_c99ed0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_progress_reporting_a_0fc67c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_progress_tracking_247b57_progress_tracking_ef_6cf48d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_friction_diminishing_b6a2ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_friction_unwanted_ha_0a8e6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_gym_distance_adheren_f295ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_prepare_habit_enviro_aced7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_reduce_friction_cd41be_reduce_habit_decisio_e6cf17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_graded_habit_increas_3c75ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_consis_eae060": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_readin_020764": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_one_variable_habit_s_69d716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_scaling_habits_a1298a_stable_cues_when_sca_0116c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_fragmented_sleep_att_d204e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_one_night_attention_6998e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_repeated_sleep_vigil_95a45c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_attention_c3b951_subjective_adaptatio_6d05c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_repeated_short_sleep_0eef69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleepiness_performan_798cd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_attention_laps_c5564e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_effort_allocat_b578bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_first_planning_b63b3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_short_sleep_daily_st_a3be93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_loss_effort_co_adcb04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_positive_affec_76c7f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_automatic_habit_star_f80818": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_flexible_habit_cues_760ae5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_habit_floor_757e65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_missed_habit_days_57525c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_accountability_press_46445a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_goals_vs_progress_re_348921": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_reporting_completed_e3d3d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_social_visibility_pr_b99e32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_social_accountabilit_aadcd8_supportive_accountab_9f93b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_impulse_purchase_wai_3499cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_real_time_spending_f_f99cc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_saved_cards_checkout_9a3129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_short_shopping_delay_4cce4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_spending_systems_60275f_single_category_impu_608136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_existing_routine_anc_4c1156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_habit_context_variat_acc33c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_missed_habit_repetit_14a2da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_routine_vs_time_cues_8880c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_stable_contexts_b82f93_workable_habit_cues_d38303": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_phone_distance_study_eb5389": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_social_media_substit_56dcad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_study_systems_0ce3b8_stable_study_context_401180": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_immediate_enjoyment_6384d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_real_world_gym_effec_bb1327": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_restricting_temptati_556478": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_reward_context_cues_fef9c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_temptation_bundling_78b62e_temptation_bundle_ro_5f48e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_behavioral_friction_90e845": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_early_self_control_a17467": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_ego_depletion_limits_b4faa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_habit_formation_time_789385": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_willpower_myths_6f400f_temptation_exposure_39be2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_end_day_setup_creep_2c90ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_interruption_resilie_d34b95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_restart_plan_mental_891b8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_visible_next_action_c256aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_work_preparation_bd6e63_workspace_memory_cue_f60f1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_binary_habit_trackin_da7428": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_measurement_reactivi_2cc9ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_missed_session_patte_2fd6eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_near_event_logging_e728c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "self_improvement_tha_c01280_written_progress_rec_ba20d1_paper_vs_digital_tra_0db3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 272,
+  "regressions": []
+}

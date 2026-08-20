@@ -1,0 +1,4622 @@
+{
+  "version": 1,
+  "page_count": 241,
+  "total_page_seconds": 3664.4722,
+  "average_page_seconds": 15.2053,
+  "phase_totals_seconds": {
+    "media_svg": 2669.007,
+    "internal_links": 636.3726,
+    "content_assembly": 246.0938,
+    "monetization": 59.5526,
+    "quality_write": 17.6525,
+    "youtube": 15.8993,
+    "content_cleanup_final": 12.5351,
+    "preparation": 7.098,
+    "content_cleanup_initial": 0.2625
+  },
+  "slowest_pages": [
+    {
+      "base_name": "self_improvement_tha_c01280",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 23.7774,
+      "phases": {
+        "preparation": 0.0357,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.8056,
+        "content_cleanup_final": 0.0767,
+        "media_svg": 14.0085,
+        "youtube": 3.993,
+        "content_assembly": 1.307,
+        "monetization": 1.4456,
+        "quality_write": 0.1038
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 23.6809,
+      "phases": {
+        "preparation": 0.0437,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.2993,
+        "content_cleanup_final": 0.0578,
+        "media_svg": 13.8635,
+        "youtube": 3.9461,
+        "content_assembly": 1.1987,
+        "monetization": 1.1192,
+        "quality_write": 0.1514
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 23.0282,
+      "phases": {
+        "preparation": 0.0416,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.902,
+        "content_cleanup_final": 0.0436,
+        "media_svg": 13.3481,
+        "youtube": 4.3693,
+        "content_assembly": 1.1222,
+        "monetization": 1.1097,
+        "quality_write": 0.0908
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 21.0247,
+      "phases": {
+        "preparation": 0.0737,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 3.2821,
+        "content_cleanup_final": 0.0835,
+        "media_svg": 15.991,
+        "youtube": 0.0177,
+        "content_assembly": 1.3445,
+        "monetization": 0.1241,
+        "quality_write": 0.1055
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 20.0145,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0024,
+        "internal_links": 3.0397,
+        "content_cleanup_final": 0.0847,
+        "media_svg": 13.5554,
+        "youtube": 0.0166,
+        "content_assembly": 1.562,
+        "monetization": 1.6465,
+        "quality_write": 0.107
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.6438,
+      "phases": {
+        "preparation": 0.099,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4471,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 15.807,
+        "youtube": 0.0112,
+        "content_assembly": 1.048,
+        "monetization": 0.1417,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.461,
+      "phases": {
+        "preparation": 0.049,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8755,
+        "content_cleanup_final": 0.0564,
+        "media_svg": 14.3055,
+        "youtube": 0.0145,
+        "content_assembly": 1.1832,
+        "monetization": 0.8845,
+        "quality_write": 0.0915
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.6094,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.0817,
+        "content_cleanup_final": 0.0867,
+        "media_svg": 13.9504,
+        "youtube": 0.015,
+        "content_assembly": 1.1351,
+        "monetization": 0.1692,
+        "quality_write": 0.1249
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5723,
+      "phases": {
+        "preparation": 0.0496,
+        "content_cleanup_initial": 0.0027,
+        "internal_links": 2.9395,
+        "content_cleanup_final": 0.0709,
+        "media_svg": 13.9769,
+        "youtube": 0.0172,
+        "content_assembly": 1.2963,
+        "monetization": 0.1176,
+        "quality_write": 0.1016
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5714,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7462,
+        "content_cleanup_final": 0.0499,
+        "media_svg": 14.3414,
+        "youtube": 0.0116,
+        "content_assembly": 1.1429,
+        "monetization": 0.1459,
+        "quality_write": 0.0887
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.2924,
+      "phases": {
+        "preparation": 0.0418,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5582,
+        "content_cleanup_final": 0.0463,
+        "media_svg": 14.2553,
+        "youtube": 0.0157,
+        "content_assembly": 1.1621,
+        "monetization": 0.1259,
+        "quality_write": 0.086
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.2583,
+      "phases": {
+        "preparation": 0.0406,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7957,
+        "content_cleanup_final": 0.0579,
+        "media_svg": 14.0117,
+        "youtube": 0.015,
+        "content_assembly": 1.1153,
+        "monetization": 0.1409,
+        "quality_write": 0.0795
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.1058,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7846,
+        "content_cleanup_final": 0.0514,
+        "media_svg": 13.8297,
+        "youtube": 0.0148,
+        "content_assembly": 1.1418,
+        "monetization": 0.1477,
+        "quality_write": 0.0899
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0875,
+      "phases": {
+        "preparation": 0.0517,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.789,
+        "content_cleanup_final": 0.0556,
+        "media_svg": 13.731,
+        "youtube": 0.0151,
+        "content_assembly": 1.1971,
+        "monetization": 0.1626,
+        "quality_write": 0.0845
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0467,
+      "phases": {
+        "preparation": 0.0401,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.6447,
+        "content_cleanup_final": 0.043,
+        "media_svg": 13.9272,
+        "youtube": 0.0134,
+        "content_assembly": 1.1753,
+        "monetization": 0.1128,
+        "quality_write": 0.0886
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0298,
+      "phases": {
+        "preparation": 0.037,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5195,
+        "content_cleanup_final": 0.0519,
+        "media_svg": 13.9986,
+        "youtube": 0.0159,
+        "content_assembly": 1.1848,
+        "monetization": 0.1423,
+        "quality_write": 0.0787
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8383,
+      "phases": {
+        "preparation": 0.0731,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.9297,
+        "content_cleanup_final": 0.0597,
+        "media_svg": 13.3057,
+        "youtube": 0.0175,
+        "content_assembly": 1.2006,
+        "monetization": 0.1298,
+        "quality_write": 0.1201
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8176,
+      "phases": {
+        "preparation": 0.0615,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 3.4774,
+        "content_cleanup_final": 0.0927,
+        "media_svg": 12.5349,
+        "youtube": 0.0156,
+        "content_assembly": 1.4017,
+        "monetization": 0.124,
+        "quality_write": 0.1082
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6191,
+      "phases": {
+        "preparation": 0.0552,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.6455,
+        "content_cleanup_final": 0.0512,
+        "media_svg": 13.5107,
+        "youtube": 0.0157,
+        "content_assembly": 1.1059,
+        "monetization": 0.1465,
+        "quality_write": 0.0872
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4983,
+      "phases": {
+        "preparation": 0.0376,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.843,
+        "content_cleanup_final": 0.0736,
+        "media_svg": 13.0073,
+        "youtube": 0.0122,
+        "content_assembly": 1.2739,
+        "monetization": 0.1512,
+        "quality_write": 0.0979
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "self_improvement_tha_c01280",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 23.7774,
+      "phases": {
+        "preparation": 0.0357,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.8056,
+        "content_cleanup_final": 0.0767,
+        "media_svg": 14.0085,
+        "youtube": 3.993,
+        "content_assembly": 1.307,
+        "monetization": 1.4456,
+        "quality_write": 0.1038
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 23.6809,
+      "phases": {
+        "preparation": 0.0437,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.2993,
+        "content_cleanup_final": 0.0578,
+        "media_svg": 13.8635,
+        "youtube": 3.9461,
+        "content_assembly": 1.1987,
+        "monetization": 1.1192,
+        "quality_write": 0.1514
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 23.0282,
+      "phases": {
+        "preparation": 0.0416,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.902,
+        "content_cleanup_final": 0.0436,
+        "media_svg": 13.3481,
+        "youtube": 4.3693,
+        "content_assembly": 1.1222,
+        "monetization": 1.1097,
+        "quality_write": 0.0908
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.6438,
+      "phases": {
+        "preparation": 0.099,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.4471,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 15.807,
+        "youtube": 0.0112,
+        "content_assembly": 1.048,
+        "monetization": 0.1417,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_precommitment_2d35ae",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.489,
+      "phases": {
+        "preparation": 0.0781,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7044,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 13.4381,
+        "youtube": 0.0129,
+        "content_assembly": 1.0548,
+        "monetization": 0.1104,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_study_systems_0ce3b8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1482,
+      "phases": {
+        "preparation": 0.0764,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8854,
+        "content_cleanup_final": 0.058,
+        "media_svg": 12.6494,
+        "youtube": 0.0129,
+        "content_assembly": 1.2411,
+        "monetization": 0.1206,
+        "quality_write": 0.103
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_complex_habits_50cb4b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.5684,
+      "phases": {
+        "preparation": 0.0386,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4364,
+        "content_cleanup_final": 0.0453,
+        "media_svg": 12.7512,
+        "youtube": 0.0129,
+        "content_assembly": 1.089,
+        "monetization": 0.1142,
+        "quality_write": 0.0801
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.2583,
+      "phases": {
+        "preparation": 0.0406,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7957,
+        "content_cleanup_final": 0.0579,
+        "media_svg": 14.0117,
+        "youtube": 0.015,
+        "content_assembly": 1.1153,
+        "monetization": 0.1409,
+        "quality_write": 0.0795
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 21.0247,
+      "phases": {
+        "preparation": 0.0737,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 3.2821,
+        "content_cleanup_final": 0.0835,
+        "media_svg": 15.991,
+        "youtube": 0.0177,
+        "content_assembly": 1.3445,
+        "monetization": 0.1241,
+        "quality_write": 0.1055
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_behaviour_goals_967921",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.2155,
+      "phases": {
+        "preparation": 0.0525,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.9038,
+        "content_cleanup_final": 0.0642,
+        "media_svg": 12.5977,
+        "youtube": 0.0278,
+        "content_assembly": 1.3063,
+        "monetization": 0.1632,
+        "quality_write": 0.0984
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0467,
+      "phases": {
+        "preparation": 0.0401,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.6447,
+        "content_cleanup_final": 0.043,
+        "media_svg": 13.9272,
+        "youtube": 0.0134,
+        "content_assembly": 1.1753,
+        "monetization": 0.1128,
+        "quality_write": 0.0886
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.1058,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7846,
+        "content_cleanup_final": 0.0514,
+        "media_svg": 13.8297,
+        "youtube": 0.0148,
+        "content_assembly": 1.1418,
+        "monetization": 0.1477,
+        "quality_write": 0.0899
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_reduce_friction_cd41be",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7842,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.5592,
+        "content_cleanup_final": 0.049,
+        "media_svg": 12.0243,
+        "youtube": 0.0137,
+        "content_assembly": 1.1751,
+        "monetization": 0.8193,
+        "quality_write": 0.0971
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_attention_c3b951",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9609,
+      "phases": {
+        "preparation": 0.0398,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5661,
+        "content_cleanup_final": 0.0399,
+        "media_svg": 11.9833,
+        "youtube": 0.02,
+        "content_assembly": 1.0897,
+        "monetization": 0.1417,
+        "quality_write": 0.0797
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_stable_contexts_b82f93",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1786,
+      "phases": {
+        "preparation": 0.0378,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 2.6136,
+        "content_cleanup_final": 0.0495,
+        "media_svg": 12.2731,
+        "youtube": 0.0153,
+        "content_assembly": 1.1184,
+        "monetization": 0.9738,
+        "quality_write": 0.0951
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_willpower_myths_6f400f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.671,
+      "phases": {
+        "preparation": 0.0444,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8655,
+        "content_cleanup_final": 0.0735,
+        "media_svg": 12.1922,
+        "youtube": 0.0128,
+        "content_assembly": 1.2307,
+        "monetization": 0.149,
+        "quality_write": 0.1019
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 20.0145,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0024,
+        "internal_links": 3.0397,
+        "content_cleanup_final": 0.0847,
+        "media_svg": 13.5554,
+        "youtube": 0.0166,
+        "content_assembly": 1.562,
+        "monetization": 1.6465,
+        "quality_write": 0.107
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_exercise_systems_edd719",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2397,
+      "phases": {
+        "preparation": 0.0411,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4408,
+        "content_cleanup_final": 0.0456,
+        "media_svg": 12.3589,
+        "youtube": 0.0158,
+        "content_assembly": 1.1027,
+        "monetization": 0.1461,
+        "quality_write": 0.0876
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_meal_preparation_b97ced",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.231,
+      "phases": {
+        "preparation": 0.0424,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.9027,
+        "content_cleanup_final": 0.0873,
+        "media_svg": 12.5965,
+        "youtube": 0.0126,
+        "content_assembly": 1.3439,
+        "monetization": 0.145,
+        "quality_write": 0.0995
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5723,
+      "phases": {
+        "preparation": 0.0496,
+        "content_cleanup_initial": 0.0027,
+        "internal_links": 2.9395,
+        "content_cleanup_final": 0.0709,
+        "media_svg": 13.9769,
+        "youtube": 0.0172,
+        "content_assembly": 1.2963,
+        "monetization": 0.1176,
+        "quality_write": 0.1016
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_foundation_55d7b8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7049,
+      "phases": {
+        "preparation": 0.0733,
+        "content_cleanup_initial": 0.0031,
+        "internal_links": 3.1287,
+        "content_cleanup_final": 0.0801,
+        "media_svg": 11.8798,
+        "youtube": 0.0177,
+        "content_assembly": 1.2708,
+        "monetization": 0.1569,
+        "quality_write": 0.0945
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_spending_systems_60275f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7709,
+      "phases": {
+        "preparation": 0.0391,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5287,
+        "content_cleanup_final": 0.0614,
+        "media_svg": 12.7284,
+        "youtube": 0.0143,
+        "content_assembly": 1.1996,
+        "monetization": 0.1139,
+        "quality_write": 0.0848
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_work_preparation_bd6e63",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2285,
+      "phases": {
+        "preparation": 0.0426,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7548,
+        "content_cleanup_final": 0.0476,
+        "media_svg": 12.0319,
+        "youtube": 0.0118,
+        "content_assembly": 1.1114,
+        "monetization": 0.1453,
+        "quality_write": 0.0823
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.0323,
+      "phases": {
+        "preparation": 0.1459,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.7769,
+        "content_cleanup_final": 0.0631,
+        "media_svg": 12.5671,
+        "youtube": 0.0142,
+        "content_assembly": 1.2067,
+        "monetization": 0.1645,
+        "quality_write": 0.0929
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.2924,
+      "phases": {
+        "preparation": 0.0418,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5582,
+        "content_cleanup_final": 0.0463,
+        "media_svg": 14.2553,
+        "youtube": 0.0157,
+        "content_assembly": 1.1621,
+        "monetization": 0.1259,
+        "quality_write": 0.086
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_progress_tracking_247b57",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.2802,
+      "phases": {
+        "preparation": 0.0354,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.625,
+        "content_cleanup_final": 0.0458,
+        "media_svg": 13.1623,
+        "youtube": 0.0143,
+        "content_assembly": 1.1877,
+        "monetization": 0.1274,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_decision_reduction_c13973",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9908,
+      "phases": {
+        "preparation": 0.0344,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 3.079,
+        "content_cleanup_final": 0.069,
+        "media_svg": 12.3414,
+        "youtube": 0.0143,
+        "content_assembly": 1.2381,
+        "monetization": 0.1224,
+        "quality_write": 0.0906
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4983,
+      "phases": {
+        "preparation": 0.0376,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.843,
+        "content_cleanup_final": 0.0736,
+        "media_svg": 13.0073,
+        "youtube": 0.0122,
+        "content_assembly": 1.2739,
+        "monetization": 0.1512,
+        "quality_write": 0.0979
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.461,
+      "phases": {
+        "preparation": 0.049,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8755,
+        "content_cleanup_final": 0.0564,
+        "media_svg": 14.3055,
+        "youtube": 0.0145,
+        "content_assembly": 1.1832,
+        "monetization": 0.8845,
+        "quality_write": 0.0915
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5714,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7462,
+        "content_cleanup_final": 0.0499,
+        "media_svg": 14.3414,
+        "youtube": 0.0116,
+        "content_assembly": 1.1429,
+        "monetization": 0.1459,
+        "quality_write": 0.0887
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_temptation_bundling_78b62e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4091,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.344,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 13.6458,
+        "youtube": 0.0147,
+        "content_assembly": 1.0894,
+        "monetization": 0.1519,
+        "quality_write": 0.0824
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9113,
+      "phases": {
+        "preparation": 0.0473,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8195,
+        "content_cleanup_final": 0.0709,
+        "media_svg": 12.567,
+        "youtube": 0.0149,
+        "content_assembly": 1.1693,
+        "monetization": 0.1298,
+        "quality_write": 0.0916
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.6094,
+      "phases": {
+        "preparation": 0.0451,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.0817,
+        "content_cleanup_final": 0.0867,
+        "media_svg": 13.9504,
+        "youtube": 0.015,
+        "content_assembly": 1.1351,
+        "monetization": 0.1692,
+        "quality_write": 0.1249
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.4065,
+      "phases": {
+        "preparation": 0.0507,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5402,
+        "content_cleanup_final": 0.0522,
+        "media_svg": 12.4108,
+        "youtube": 0.0121,
+        "content_assembly": 1.1091,
+        "monetization": 0.1464,
+        "quality_write": 0.0843
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7573,
+      "phases": {
+        "preparation": 0.0405,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4187,
+        "content_cleanup_final": 0.0396,
+        "media_svg": 12.9779,
+        "youtube": 0.0118,
+        "content_assembly": 1.0549,
+        "monetization": 0.1349,
+        "quality_write": 0.0785
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8383,
+      "phases": {
+        "preparation": 0.0731,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.9297,
+        "content_cleanup_final": 0.0597,
+        "media_svg": 13.3057,
+        "youtube": 0.0175,
+        "content_assembly": 1.2006,
+        "monetization": 0.1298,
+        "quality_write": 0.1201
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6191,
+      "phases": {
+        "preparation": 0.0552,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.6455,
+        "content_cleanup_final": 0.0512,
+        "media_svg": 13.5107,
+        "youtube": 0.0157,
+        "content_assembly": 1.1059,
+        "monetization": 0.1465,
+        "quality_write": 0.0872
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8176,
+      "phases": {
+        "preparation": 0.0615,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 3.4774,
+        "content_cleanup_final": 0.0927,
+        "media_svg": 12.5349,
+        "youtube": 0.0156,
+        "content_assembly": 1.4017,
+        "monetization": 0.124,
+        "quality_write": 0.1082
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0875,
+      "phases": {
+        "preparation": 0.0517,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.789,
+        "content_cleanup_final": 0.0556,
+        "media_svg": 13.731,
+        "youtube": 0.0151,
+        "content_assembly": 1.1971,
+        "monetization": 0.1626,
+        "quality_write": 0.0845
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0298,
+      "phases": {
+        "preparation": 0.037,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5195,
+        "content_cleanup_final": 0.0519,
+        "media_svg": 13.9986,
+        "youtube": 0.0159,
+        "content_assembly": 1.1848,
+        "monetization": 0.1423,
+        "quality_write": 0.0787
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9607,
+      "phases": {
+        "preparation": 0.034,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.9127,
+        "content_cleanup_final": 0.0621,
+        "media_svg": 12.4866,
+        "youtube": 0.0157,
+        "content_assembly": 1.2453,
+        "monetization": 0.1127,
+        "quality_write": 0.0907
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_behaviour_goals_967921_if_then_plans_58a9d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4439,
+      "phases": {
+        "preparation": 0.0246,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.617,
+        "content_cleanup_final": 0.0489,
+        "media_svg": 10.5094,
+        "youtube": 0.013,
+        "content_assembly": 1.0086,
+        "monetization": 0.1567,
+        "quality_write": 0.0649
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.9351,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3078,
+        "content_cleanup_final": 0.036,
+        "media_svg": 10.3996,
+        "youtube": 0.0124,
+        "content_assembly": 0.9483,
+        "monetization": 0.1452,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119_short_sleep_daily_st_a3be93",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4123,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4675,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 10.746,
+        "youtube": 0.0111,
+        "content_assembly": 0.9263,
+        "monetization": 0.1325,
+        "quality_write": 0.0675
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_loss_effort_co_adcb04",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3276,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.4512,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 10.6949,
+        "youtube": 0.0134,
+        "content_assembly": 0.8865,
+        "monetization": 0.1436,
+        "quality_write": 0.0695
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_positive_affec_76c7f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3979,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.5443,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 10.648,
+        "youtube": 0.0254,
+        "content_assembly": 0.9147,
+        "monetization": 0.1383,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1321,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.8047,
+        "content_cleanup_final": 0.0463,
+        "media_svg": 11.0465,
+        "youtube": 0.0158,
+        "content_assembly": 0.9687,
+        "monetization": 0.1481,
+        "quality_write": 0.0762
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8977,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 2.9632,
+        "content_cleanup_final": 0.0608,
+        "media_svg": 10.5468,
+        "youtube": 0.0141,
+        "content_assembly": 1.0595,
+        "monetization": 0.1513,
+        "quality_write": 0.0739
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864_one_missed_day_habit_6826e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3567,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4515,
+        "content_cleanup_final": 0.0477,
+        "media_svg": 10.6786,
+        "youtube": 0.014,
+        "content_assembly": 0.9346,
+        "monetization": 0.1377,
+        "quality_write": 0.0642
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2708,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6621,
+        "content_cleanup_final": 0.0625,
+        "media_svg": 10.3918,
+        "youtube": 0.0141,
+        "content_assembly": 0.9334,
+        "monetization": 0.1169,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864_stable_cues_after_la_9d56e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3267,
+      "phases": {
+        "preparation": 0.0274,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5955,
+        "content_cleanup_final": 0.042,
+        "media_svg": 10.5373,
+        "youtube": 0.015,
+        "content_assembly": 0.9252,
+        "monetization": 0.1185,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_missed_days_68e864_streaks_vs_habit_pro_66fffa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5136,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5719,
+        "content_cleanup_final": 0.0586,
+        "media_svg": 10.6788,
+        "youtube": 0.0142,
+        "content_assembly": 0.9714,
+        "monetization": 0.1201,
+        "quality_write": 0.0705
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_habit_floor_757e65",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6752,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.6838,
+        "content_cleanup_final": 0.0595,
+        "media_svg": 10.6882,
+        "youtube": 0.0136,
+        "content_assembly": 0.9771,
+        "monetization": 0.1476,
+        "quality_write": 0.0785
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5397,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5084,
+        "content_cleanup_final": 0.0437,
+        "media_svg": 10.7996,
+        "youtube": 0.0134,
+        "content_assembly": 0.9614,
+        "monetization": 0.1171,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0_strong_habit_limits_dfb19b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5258,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 2.8556,
+        "content_cleanup_final": 0.0677,
+        "media_svg": 10.3557,
+        "youtube": 0.0146,
+        "content_assembly": 1.0136,
+        "monetization": 0.1211,
+        "quality_write": 0.0714
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_complex_habits_50cb4b_low_frequency_habit_99db7c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1716,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4969,
+        "content_cleanup_final": 0.0463,
+        "media_svg": 10.5063,
+        "youtube": 0.013,
+        "content_assembly": 0.9063,
+        "monetization": 0.1113,
+        "quality_write": 0.0643
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_complex_habits_50cb4b_preparation_failure_86fb90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7478,
+      "phases": {
+        "preparation": 0.0307,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 2.6903,
+        "content_cleanup_final": 0.0642,
+        "media_svg": 10.7296,
+        "youtube": 0.0165,
+        "content_assembly": 1.0161,
+        "monetization": 0.1245,
+        "quality_write": 0.0734
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc_habit_66_day_myth_f43554",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.7301,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4386,
+        "content_cleanup_final": 0.0488,
+        "media_svg": 11.2504,
+        "youtube": 0.0142,
+        "content_assembly": 0.9683,
+        "monetization": 1.9443,
+        "quality_write": 0.0645
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0_choosing_reliable_cu_d2d8ee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3479,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6675,
+        "content_cleanup_final": 0.0488,
+        "media_svg": 10.4574,
+        "youtube": 0.0167,
+        "content_assembly": 0.9403,
+        "monetization": 0.1197,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0_if_then_plan_specifi_09d47d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0938,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4411,
+        "content_cleanup_final": 0.0381,
+        "media_svg": 10.4456,
+        "youtube": 0.0136,
+        "content_assembly": 0.9439,
+        "monetization": 0.1201,
+        "quality_write": 0.0625
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0734,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3818,
+        "content_cleanup_final": 0.0379,
+        "media_svg": 10.5266,
+        "youtube": 0.0166,
+        "content_assembly": 0.9054,
+        "monetization": 0.1224,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0_weak_motivation_limi_497fdc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5856,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5784,
+        "content_cleanup_final": 0.0417,
+        "media_svg": 10.796,
+        "youtube": 0.0129,
+        "content_assembly": 0.9432,
+        "monetization": 0.1219,
+        "quality_write": 0.0604
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5656,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.468,
+        "content_cleanup_final": 0.0547,
+        "media_svg": 10.7139,
+        "youtube": 0.0165,
+        "content_assembly": 0.9168,
+        "monetization": 0.2966,
+        "quality_write": 0.0709
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_precommitment_2d35ae_digital_temptation_b_50d20b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3958,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6112,
+        "content_cleanup_final": 0.0526,
+        "media_svg": 10.411,
+        "youtube": 0.0131,
+        "content_assembly": 0.9467,
+        "monetization": 0.2788,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_precommitment_2d35ae_money_stake_commitme_9849f1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3948,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5973,
+        "content_cleanup_final": 0.0527,
+        "media_svg": 10.5155,
+        "youtube": 0.0148,
+        "content_assembly": 0.998,
+        "monetization": 0.1229,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_precommitment_2d35ae_real_vs_self_deadlin_bdaf2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0066,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.3387,
+        "content_cleanup_final": 0.0325,
+        "media_svg": 10.5019,
+        "youtube": 0.0237,
+        "content_assembly": 0.8887,
+        "monetization": 0.1305,
+        "quality_write": 0.0627
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_precommitment_2d35ae_right_sized_precommi_548fe7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7652,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.5102,
+        "content_cleanup_final": 0.0546,
+        "media_svg": 10.8477,
+        "youtube": 0.0144,
+        "content_assembly": 0.9553,
+        "monetization": 0.2846,
+        "quality_write": 0.0676
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5858,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5162,
+        "content_cleanup_final": 0.0402,
+        "media_svg": 10.8591,
+        "youtube": 0.0143,
+        "content_assembly": 0.9527,
+        "monetization": 0.1114,
+        "quality_write": 0.0649
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_study_systems_0ce3b8_phone_distance_study_eb5389",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5877,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.641,
+        "content_cleanup_final": 0.0538,
+        "media_svg": 10.6512,
+        "youtube": 0.0131,
+        "content_assembly": 1.014,
+        "monetization": 0.1186,
+        "quality_write": 0.0687
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_study_systems_0ce3b8_social_media_substit_56dcad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0516,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3368,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 10.5513,
+        "youtube": 0.0128,
+        "content_assembly": 0.9183,
+        "monetization": 0.1144,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_study_systems_0ce3b8_stable_study_context_401180",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1928,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5708,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 10.4412,
+        "youtube": 0.0124,
+        "content_assembly": 0.8986,
+        "monetization": 0.1353,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_willpower_myths_6f400f_early_self_control_a17467",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3276,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6807,
+        "content_cleanup_final": 0.0465,
+        "media_svg": 10.328,
+        "youtube": 0.0154,
+        "content_assembly": 0.9863,
+        "monetization": 0.1632,
+        "quality_write": 0.0794
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_behaviour_goals_967921_outcomes_to_actions_8e9647",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4809,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.5848,
+        "content_cleanup_final": 0.0621,
+        "media_svg": 10.5674,
+        "youtube": 0.0212,
+        "content_assembly": 1.0094,
+        "monetization": 0.1362,
+        "quality_write": 0.071
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_complex_habits_50cb4b_automatic_routine_st_3f7b32",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3441,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5113,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 10.6586,
+        "youtube": 0.0166,
+        "content_assembly": 0.9,
+        "monetization": 0.1193,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2781,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4464,
+        "content_cleanup_final": 0.0507,
+        "media_svg": 10.5765,
+        "youtube": 0.0168,
+        "content_assembly": 0.9454,
+        "monetization": 0.147,
+        "quality_write": 0.0685
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_complex_habits_50cb4b_stable_context_compl_3bc2a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4658,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4921,
+        "content_cleanup_final": 0.0478,
+        "media_svg": 10.7025,
+        "youtube": 0.013,
+        "content_assembly": 0.9947,
+        "monetization": 0.1186,
+        "quality_write": 0.0705
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5_explanation_learning_ff65c1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.315,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5376,
+        "content_cleanup_final": 0.0424,
+        "media_svg": 10.5957,
+        "youtube": 0.0139,
+        "content_assembly": 0.9239,
+        "monetization": 0.1163,
+        "quality_write": 0.0639
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5_measuring_learning_g_c07a6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7733,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.6,
+        "content_cleanup_final": 0.0659,
+        "media_svg": 10.8405,
+        "youtube": 0.0185,
+        "content_assembly": 1.0037,
+        "monetization": 0.1498,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5_strategy_discovery_g_2f1876",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3566,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.4643,
+        "content_cleanup_final": 0.0443,
+        "media_svg": 10.6564,
+        "youtube": 0.0167,
+        "content_assembly": 0.9242,
+        "monetization": 0.1528,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5_switch_to_performanc_3624de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4785,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5551,
+        "content_cleanup_final": 0.045,
+        "media_svg": 10.6685,
+        "youtube": 0.0128,
+        "content_assembly": 0.9729,
+        "monetization": 0.1254,
+        "quality_write": 0.0706
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_learning_goals_d057c5_test_compare_learnin_559df1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3652,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.7344,
+        "content_cleanup_final": 0.0585,
+        "media_svg": 10.932,
+        "youtube": 0.0338,
+        "content_assembly": 1.3784,
+        "monetization": 0.1269,
+        "quality_write": 0.0756
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a_graded_habit_increas_3c75ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9257,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4879,
+        "content_cleanup_final": 0.0471,
+        "media_svg": 11.125,
+        "youtube": 0.0111,
+        "content_assembly": 1.029,
+        "monetization": 0.135,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_consis_eae060",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9465,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 3.2644,
+        "content_cleanup_final": 0.0655,
+        "media_svg": 10.3816,
+        "youtube": 0.0139,
+        "content_assembly": 1.0,
+        "monetization": 0.1159,
+        "quality_write": 0.0785
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_readin_020764",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4122,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.5965,
+        "content_cleanup_final": 0.0502,
+        "media_svg": 10.5373,
+        "youtube": 0.0114,
+        "content_assembly": 0.993,
+        "monetization": 0.1265,
+        "quality_write": 0.0688
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a_one_variable_habit_s_69d716",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6394,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7074,
+        "content_cleanup_final": 0.0669,
+        "media_svg": 10.5827,
+        "youtube": 0.0162,
+        "content_assembly": 1.065,
+        "monetization": 0.1082,
+        "quality_write": 0.0668
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a_stable_cues_when_sca_0116c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1518,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.556,
+        "content_cleanup_final": 0.0472,
+        "media_svg": 10.3562,
+        "youtube": 0.0167,
+        "content_assembly": 0.9749,
+        "monetization": 0.1136,
+        "quality_write": 0.0635
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3721,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.6107,
+        "content_cleanup_final": 0.0556,
+        "media_svg": 10.5079,
+        "youtube": 0.0132,
+        "content_assembly": 0.9808,
+        "monetization": 0.1156,
+        "quality_write": 0.065
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_attention_c3b951_one_night_attention_6998e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2841,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.4398,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 10.6087,
+        "youtube": 0.0226,
+        "content_assembly": 0.8969,
+        "monetization": 0.188,
+        "quality_write": 0.0653
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_stable_contexts_b82f93_workable_habit_cues_d38303",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1481,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.561,
+        "content_cleanup_final": 0.0517,
+        "media_svg": 10.6258,
+        "youtube": 0.0124,
+        "content_assembly": 0.952,
+        "monetization": 0.856,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_willpower_myths_6f400f_behavioral_friction_90e845",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5992,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.555,
+        "content_cleanup_final": 0.0505,
+        "media_svg": 10.7103,
+        "youtube": 0.0146,
+        "content_assembly": 1.0145,
+        "monetization": 0.1621,
+        "quality_write": 0.0648
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_willpower_myths_6f400f_temptation_exposure_39be2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8144,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.536,
+        "content_cleanup_final": 0.0454,
+        "media_svg": 10.9882,
+        "youtube": 0.0132,
+        "content_assembly": 0.973,
+        "monetization": 0.1481,
+        "quality_write": 0.0832
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_goal_contr_7068c3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6712,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6892,
+        "content_cleanup_final": 0.0509,
+        "media_svg": 10.6142,
+        "youtube": 0.0115,
+        "content_assembly": 1.0432,
+        "monetization": 0.1693,
+        "quality_write": 0.0676
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_metrics_qu_38f726",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.536,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7594,
+        "content_cleanup_final": 0.0596,
+        "media_svg": 10.4772,
+        "youtube": 0.0155,
+        "content_assembly": 0.9842,
+        "monetization": 0.1434,
+        "quality_write": 0.0688
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7647,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7004,
+        "content_cleanup_final": 0.0623,
+        "media_svg": 10.7443,
+        "youtube": 0.0209,
+        "content_assembly": 0.9902,
+        "monetization": 0.1464,
+        "quality_write": 0.0735
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb_shopping_defaults_87d2bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8482,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4122,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 10.4784,
+        "youtube": 0.0107,
+        "content_assembly": 0.9017,
+        "monetization": 0.9302,
+        "quality_write": 0.0654
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc_growth_mindset_meta_2173ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.925,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3912,
+        "content_cleanup_final": 0.0366,
+        "media_svg": 11.3417,
+        "youtube": 0.0142,
+        "content_assembly": 0.9305,
+        "monetization": 0.1461,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_effort_vs_strategy_d_484112",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3463,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4886,
+        "content_cleanup_final": 0.0604,
+        "media_svg": 10.586,
+        "youtube": 0.0157,
+        "content_assembly": 0.9495,
+        "monetization": 0.1514,
+        "quality_write": 0.0673
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_extreme_stretch_goal_61e684",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3338,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4557,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 10.6593,
+        "youtube": 0.016,
+        "content_assembly": 0.921,
+        "monetization": 0.1397,
+        "quality_write": 0.083
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5679,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5474,
+        "content_cleanup_final": 0.0479,
+        "media_svg": 10.6769,
+        "youtube": 0.0164,
+        "content_assembly": 1.0341,
+        "monetization": 0.1499,
+        "quality_write": 0.0697
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_goal_difficulty_curr_146b5c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6771,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.56,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 10.8598,
+        "youtube": 0.0144,
+        "content_assembly": 0.9518,
+        "monetization": 0.1358,
+        "quality_write": 0.078
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_hard_goals_novice_pe_0a6b98",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6063,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7683,
+        "content_cleanup_final": 0.0473,
+        "media_svg": 10.5259,
+        "youtube": 0.014,
+        "content_assembly": 0.9896,
+        "monetization": 0.1606,
+        "quality_write": 0.0755
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_meal_preparation_b97ced_pre_portioned_meals_69cc2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8114,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6906,
+        "content_cleanup_final": 0.0503,
+        "media_svg": 10.5967,
+        "youtube": 0.0155,
+        "content_assembly": 1.0382,
+        "monetization": 0.3358,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419_behaviour_before_out_b06df3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.465,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6732,
+        "content_cleanup_final": 0.0537,
+        "media_svg": 10.4815,
+        "youtube": 0.0116,
+        "content_assembly": 1.032,
+        "monetization": 0.116,
+        "quality_write": 0.0725
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419_measure_current_unce_e58dd1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5305,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.884,
+        "content_cleanup_final": 0.0599,
+        "media_svg": 10.3332,
+        "youtube": 0.0157,
+        "content_assembly": 1.0176,
+        "monetization": 0.1245,
+        "quality_write": 0.0724
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419_retire_finished_metr_b2caaa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5198,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6041,
+        "content_cleanup_final": 0.0553,
+        "media_svg": 10.5015,
+        "youtube": 0.0137,
+        "content_assembly": 1.0908,
+        "monetization": 0.1613,
+        "quality_write": 0.0675
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419_simplified_food_trac_37732c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.509,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.74,
+        "content_cleanup_final": 0.0947,
+        "media_svg": 10.4034,
+        "youtube": 0.0106,
+        "content_assembly": 0.9952,
+        "monetization": 0.1593,
+        "quality_write": 0.0804
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_minimal_metrics_e2c419_study_sessions_to_re_e7a6c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5628,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.7172,
+        "content_cleanup_final": 0.0442,
+        "media_svg": 10.6033,
+        "youtube": 0.0123,
+        "content_assembly": 0.9573,
+        "monetization": 0.1386,
+        "quality_write": 0.066
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2_need_vs_receptivity_2a9489",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6407,
+      "phases": {
+        "preparation": 0.0312,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6118,
+        "content_cleanup_final": 0.049,
+        "media_svg": 10.7282,
+        "youtube": 0.0113,
+        "content_assembly": 0.9951,
+        "monetization": 0.1493,
+        "quality_write": 0.0639
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_reduce_friction_cd41be_friction_diminishing_b6a2ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6731,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0023,
+        "internal_links": 2.7853,
+        "content_cleanup_final": 0.0864,
+        "media_svg": 10.5153,
+        "youtube": 0.0135,
+        "content_assembly": 1.0207,
+        "monetization": 0.1474,
+        "quality_write": 0.0793
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_reduce_friction_cd41be_friction_unwanted_ha_0a8e6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6987,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.7247,
+        "content_cleanup_final": 0.0532,
+        "media_svg": 10.6671,
+        "youtube": 0.0169,
+        "content_assembly": 0.9896,
+        "monetization": 0.143,
+        "quality_write": 0.0809
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_reduce_friction_cd41be_gym_distance_adheren_f295ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5768,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5734,
+        "content_cleanup_final": 0.0444,
+        "media_svg": 10.6893,
+        "youtube": 0.0122,
+        "content_assembly": 0.9694,
+        "monetization": 0.1962,
+        "quality_write": 0.0702
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_reduce_friction_cd41be_prepare_habit_enviro_aced7e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9578,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.9811,
+        "content_cleanup_final": 0.0696,
+        "media_svg": 10.5677,
+        "youtube": 0.0149,
+        "content_assembly": 1.0922,
+        "monetization": 0.1253,
+        "quality_write": 0.0827
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_reduce_friction_cd41be_reduce_habit_decisio_e6cf17",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6248,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7856,
+        "content_cleanup_final": 0.0609,
+        "media_svg": 10.5065,
+        "youtube": 0.0127,
+        "content_assembly": 1.0309,
+        "monetization": 0.1248,
+        "quality_write": 0.0743
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_attention_c3b951_fragmented_sleep_att_d204e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4079,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6091,
+        "content_cleanup_final": 0.047,
+        "media_svg": 10.544,
+        "youtube": 0.0155,
+        "content_assembly": 0.97,
+        "monetization": 0.1236,
+        "quality_write": 0.0678
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_attention_c3b951_repeated_sleep_vigil_95a45c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1751,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.486,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 10.4556,
+        "youtube": 0.0133,
+        "content_assembly": 0.9363,
+        "monetization": 0.1431,
+        "quality_write": 0.076
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_attention_c3b951_subjective_adaptatio_6d05c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2241,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.6658,
+        "content_cleanup_final": 0.0446,
+        "media_svg": 10.2969,
+        "youtube": 0.0141,
+        "content_assembly": 0.9798,
+        "monetization": 0.1285,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_stable_contexts_b82f93_existing_routine_anc_4c1156",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1773,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 2.6108,
+        "content_cleanup_final": 0.0537,
+        "media_svg": 10.4518,
+        "youtube": 0.0195,
+        "content_assembly": 1.0023,
+        "monetization": 0.9474,
+        "quality_write": 0.068
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_stable_contexts_b82f93_habit_context_variat_acc33c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7642,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.4225,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 10.4322,
+        "youtube": 0.0146,
+        "content_assembly": 0.9421,
+        "monetization": 0.8254,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_stable_contexts_b82f93_missed_habit_repetit_14a2da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4134,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4292,
+        "content_cleanup_final": 0.0386,
+        "media_svg": 10.7779,
+        "youtube": 0.0142,
+        "content_assembly": 0.9219,
+        "monetization": 0.1452,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_stable_contexts_b82f93_routine_vs_time_cues_8880c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5495,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4365,
+        "content_cleanup_final": 0.0374,
+        "media_svg": 10.9105,
+        "youtube": 0.013,
+        "content_assembly": 0.9242,
+        "monetization": 0.1443,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_willpower_myths_6f400f_ego_depletion_limits_b4faa7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2257,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6013,
+        "content_cleanup_final": 0.047,
+        "media_svg": 10.3214,
+        "youtube": 0.014,
+        "content_assembly": 1.0002,
+        "monetization": 0.1515,
+        "quality_write": 0.0653
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_willpower_myths_6f400f_habit_formation_time_789385",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1181,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4924,
+        "content_cleanup_final": 0.0458,
+        "media_svg": 10.3786,
+        "youtube": 0.0115,
+        "content_assembly": 0.9402,
+        "monetization": 0.1569,
+        "quality_write": 0.0684
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_work_preparation_bd6e63_end_day_setup_creep_2c90ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5443,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6545,
+        "content_cleanup_final": 0.0489,
+        "media_svg": 10.5315,
+        "youtube": 0.0154,
+        "content_assembly": 1.0339,
+        "monetization": 0.1488,
+        "quality_write": 0.0844
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_work_preparation_bd6e63_restart_plan_mental_891b8f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1748,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4056,
+        "content_cleanup_final": 0.0376,
+        "media_svg": 10.5644,
+        "youtube": 0.0116,
+        "content_assembly": 0.9214,
+        "monetization": 0.1438,
+        "quality_write": 0.0617
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_work_preparation_bd6e63_visible_next_action_c256aa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3476,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6855,
+        "content_cleanup_final": 0.0451,
+        "media_svg": 10.4461,
+        "youtube": 0.014,
+        "content_assembly": 0.97,
+        "monetization": 1.09,
+        "quality_write": 0.0735
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1197,
+      "phases": {
+        "preparation": 0.0003,
+        "content_cleanup_initial": 0.0028,
+        "internal_links": 2.7962,
+        "content_cleanup_final": 0.0621,
+        "media_svg": 11.2303,
+        "youtube": 0.0157,
+        "content_assembly": 1.0562,
+        "monetization": 1.8768,
+        "quality_write": 0.0793
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc_self_regulation_mech_36b436",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4799,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.414,
+        "content_cleanup_final": 0.0412,
+        "media_svg": 10.8473,
+        "youtube": 0.015,
+        "content_assembly": 0.9555,
+        "monetization": 0.1432,
+        "quality_write": 0.0622
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc_visible_progress_tra_29ec5e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7415,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6634,
+        "content_cleanup_final": 0.0475,
+        "media_svg": 10.8257,
+        "youtube": 0.0124,
+        "content_assembly": 0.9636,
+        "monetization": 0.1581,
+        "quality_write": 0.0699
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9042,
+      "phases": {
+        "preparation": 0.0274,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 2.7729,
+        "content_cleanup_final": 0.0582,
+        "media_svg": 10.6845,
+        "youtube": 0.016,
+        "content_assembly": 1.1121,
+        "monetization": 0.159,
+        "quality_write": 0.0721
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_exercise_systems_edd719_exercise_session_rec_bf079c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5394,
+      "phases": {
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6537,
+        "content_cleanup_final": 0.0564,
+        "media_svg": 10.4796,
+        "youtube": 0.013,
+        "content_assembly": 1.0823,
+        "monetization": 0.1506,
+        "quality_write": 0.0707
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_exercise_systems_edd719_exercise_starting_ri_6c9847",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3907,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.5545,
+        "content_cleanup_final": 0.0418,
+        "media_svg": 10.5882,
+        "youtube": 0.0149,
+        "content_assembly": 0.9506,
+        "monetization": 0.1437,
+        "quality_write": 0.0695
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_exercise_systems_edd719_fallback_home_workou_ad9aa7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5807,
+      "phases": {
+        "preparation": 0.0352,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7604,
+        "content_cleanup_final": 0.0497,
+        "media_svg": 10.5581,
+        "youtube": 0.0138,
+        "content_assembly": 0.9505,
+        "monetization": 0.1444,
+        "quality_write": 0.0677
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_exercise_systems_edd719_minimum_workout_star_f013c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4673,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6116,
+        "content_cleanup_final": 0.0671,
+        "media_svg": 10.5692,
+        "youtube": 0.0167,
+        "content_assembly": 0.9806,
+        "monetization": 0.1159,
+        "quality_write": 0.0783
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_immediate_rewards_b274b1_temptation_bundling_177a03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4916,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.4825,
+        "content_cleanup_final": 0.0417,
+        "media_svg": 10.8381,
+        "youtube": 0.0124,
+        "content_assembly": 0.9148,
+        "monetization": 0.1085,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_meal_preparation_b97ced_component_cooking_va_18d321",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.5121,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7765,
+        "content_cleanup_final": 0.0757,
+        "media_svg": 11.288,
+        "youtube": 0.0173,
+        "content_assembly": 1.0574,
+        "monetization": 0.1889,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_meal_preparation_b97ced_emergency_freezer_me_97bd36",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.4776,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 3.0704,
+        "content_cleanup_final": 0.0799,
+        "media_svg": 10.8304,
+        "youtube": 0.0132,
+        "content_assembly": 1.0649,
+        "monetization": 0.3325,
+        "quality_write": 0.0639
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_meal_preparation_b97ced_ingredient_prep_week_edd377",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1633,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4334,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 10.5151,
+        "youtube": 0.0114,
+        "content_assembly": 0.9353,
+        "monetization": 0.1563,
+        "quality_write": 0.0538
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_meal_preparation_b97ced_minimum_prep_conveni_235c8f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6503,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0023,
+        "internal_links": 2.9539,
+        "content_cleanup_final": 0.1205,
+        "media_svg": 10.417,
+        "youtube": 0.0166,
+        "content_assembly": 1.1069,
+        "monetization": 0.9184,
+        "quality_write": 0.091
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2_adaptive_reminder_ti_c43ce8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5765,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6095,
+        "content_cleanup_final": 0.0562,
+        "media_svg": 10.6696,
+        "youtube": 0.0179,
+        "content_assembly": 1.0096,
+        "monetization": 0.1179,
+        "quality_write": 0.0707
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2_dynamic_personalizat_eae25c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4539,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8008,
+        "content_cleanup_final": 0.0707,
+        "media_svg": 10.2659,
+        "youtube": 0.0142,
+        "content_assembly": 1.0347,
+        "monetization": 0.1576,
+        "quality_write": 0.0834
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2_feedback_fit_behavio_5facec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7519,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6694,
+        "content_cleanup_final": 0.0609,
+        "media_svg": 10.7291,
+        "youtube": 0.0151,
+        "content_assembly": 1.0301,
+        "monetization": 0.1499,
+        "quality_write": 0.0711
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2_habit_timing_variati_3eda2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2822,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4211,
+        "content_cleanup_final": 0.0424,
+        "media_svg": 10.6687,
+        "youtube": 0.0173,
+        "content_assembly": 0.9315,
+        "monetization": 0.1115,
+        "quality_write": 0.0655
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_progress_tracking_247b57_objective_sedentary_fe036f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0461,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5848,
+        "content_cleanup_final": 0.0497,
+        "media_svg": 10.2109,
+        "youtube": 0.0146,
+        "content_assembly": 0.9747,
+        "monetization": 0.1159,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_attention_laps_c5564e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3615,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6099,
+        "content_cleanup_final": 0.0461,
+        "media_svg": 10.4765,
+        "youtube": 0.0129,
+        "content_assembly": 0.9826,
+        "monetization": 0.1368,
+        "quality_write": 0.071
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_foundation_55d7b8_repeated_short_sleep_0eef69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.8275,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.717,
+        "content_cleanup_final": 0.0491,
+        "media_svg": 10.7116,
+        "youtube": 0.0147,
+        "content_assembly": 1.0224,
+        "monetization": 2.2145,
+        "quality_write": 0.0697
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_effort_allocat_b578bb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.56,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4412,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 10.9402,
+        "youtube": 0.0133,
+        "content_assembly": 0.9151,
+        "monetization": 0.1408,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_first_planning_b63b3d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8675,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6198,
+        "content_cleanup_final": 0.0652,
+        "media_svg": 10.6914,
+        "youtube": 0.014,
+        "content_assembly": 1.2255,
+        "monetization": 0.1532,
+        "quality_write": 0.075
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleepiness_performan_798cd0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7978,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.5694,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 10.9501,
+        "youtube": 0.0165,
+        "content_assembly": 0.9676,
+        "monetization": 0.1481,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_spending_systems_60275f_impulse_purchase_wai_3499cb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8208,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6878,
+        "content_cleanup_final": 0.0588,
+        "media_svg": 10.7827,
+        "youtube": 0.0176,
+        "content_assembly": 1.0428,
+        "monetization": 0.133,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_spending_systems_60275f_real_time_spending_f_f99cc6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2552,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.444,
+        "content_cleanup_final": 0.0489,
+        "media_svg": 10.6079,
+        "youtube": 0.0133,
+        "content_assembly": 0.9337,
+        "monetization": 0.1213,
+        "quality_write": 0.0615
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_spending_systems_60275f_saved_cards_checkout_9a3129",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.1727,
+      "phases": {
+        "preparation": 0.0292,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7572,
+        "content_cleanup_final": 0.0715,
+        "media_svg": 10.5866,
+        "youtube": 0.0251,
+        "content_assembly": 1.1531,
+        "monetization": 1.4853,
+        "quality_write": 0.0638
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_spending_systems_60275f_short_shopping_delay_4cce4f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.9574,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.4235,
+        "content_cleanup_final": 0.0361,
+        "media_svg": 10.3476,
+        "youtube": 0.0134,
+        "content_assembly": 0.9217,
+        "monetization": 0.1256,
+        "quality_write": 0.065
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_spending_systems_60275f_single_category_impu_608136",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1064,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.5389,
+        "content_cleanup_final": 0.057,
+        "media_svg": 10.3295,
+        "youtube": 0.0154,
+        "content_assembly": 0.9422,
+        "monetization": 0.1237,
+        "quality_write": 0.0716
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_work_preparation_bd6e63_interruption_resilie_d34b95",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7045,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5296,
+        "content_cleanup_final": 0.0506,
+        "media_svg": 10.9442,
+        "youtube": 0.0171,
+        "content_assembly": 0.9395,
+        "monetization": 0.1611,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_work_preparation_bd6e63_workspace_memory_cue_f60f1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.9908,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5976,
+        "content_cleanup_final": 0.0474,
+        "media_svg": 10.3933,
+        "youtube": 0.0119,
+        "content_assembly": 0.9865,
+        "monetization": 1.8531,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb_greyscale_phone_use_35aaad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3262,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7696,
+        "content_cleanup_final": 0.0568,
+        "media_svg": 10.2301,
+        "youtube": 0.0131,
+        "content_assembly": 1.0336,
+        "monetization": 0.1249,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb_temptation_bundling_177a03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0839,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3448,
+        "content_cleanup_final": 0.0487,
+        "media_svg": 10.554,
+        "youtube": 0.0152,
+        "content_assembly": 0.8954,
+        "monetization": 0.138,
+        "quality_write": 0.0617
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07_cue_at_action_start_cc34ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8179,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7953,
+        "content_cleanup_final": 0.0646,
+        "media_svg": 10.6016,
+        "youtube": 0.0126,
+        "content_assembly": 1.0823,
+        "monetization": 0.1491,
+        "quality_write": 0.0801
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07_reminder_background_b61d10",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5887,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7779,
+        "content_cleanup_final": 0.0582,
+        "media_svg": 10.438,
+        "youtube": 0.0135,
+        "content_assembly": 1.0466,
+        "monetization": 0.149,
+        "quality_write": 0.0785
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07_specific_vs_general_ed9c1f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8777,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5421,
+        "content_cleanup_final": 0.0482,
+        "media_svg": 10.6071,
+        "youtube": 0.0491,
+        "content_assembly": 1.376,
+        "monetization": 0.1579,
+        "quality_write": 0.0675
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_cue_failure_3c28f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0677,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.719,
+        "content_cleanup_final": 0.0504,
+        "media_svg": 11.0944,
+        "youtube": 0.0171,
+        "content_assembly": 0.9563,
+        "monetization": 0.1317,
+        "quality_write": 0.0678
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyable_habit_vers_2b4030",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3052,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 3.2389,
+        "content_cleanup_final": 0.1038,
+        "media_svg": 10.6495,
+        "youtube": 0.0151,
+        "content_assembly": 1.0239,
+        "monetization": 0.1593,
+        "quality_write": 0.0787
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2327,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.418,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 10.6368,
+        "youtube": 0.0134,
+        "content_assembly": 0.897,
+        "monetization": 0.1478,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_immediate_rewards_b274b1_external_reward_pitf_42a96c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4671,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 2.7735,
+        "content_cleanup_final": 0.0569,
+        "media_svg": 10.396,
+        "youtube": 0.0138,
+        "content_assembly": 1.021,
+        "monetization": 0.1073,
+        "quality_write": 0.0705
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_immediate_rewards_b274b1_reward_timing_habits_9ef38b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2254,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4768,
+        "content_cleanup_final": 0.0393,
+        "media_svg": 10.48,
+        "youtube": 0.0128,
+        "content_assembly": 0.9316,
+        "monetization": 0.1688,
+        "quality_write": 0.0813
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47_autonomous_motivatio_413f6e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5015,
+      "phases": {
+        "preparation": 0.0309,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.6,
+        "content_cleanup_final": 0.0403,
+        "media_svg": 10.6549,
+        "youtube": 0.0142,
+        "content_assembly": 0.9466,
+        "monetization": 0.146,
+        "quality_write": 0.0669
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47_daily_motivation_swi_1041b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6326,
+      "phases": {
+        "preparation": 0.0209,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6195,
+        "content_cleanup_final": 0.0388,
+        "media_svg": 10.7711,
+        "youtube": 0.0148,
+        "content_assembly": 0.9562,
+        "monetization": 0.1447,
+        "quality_write": 0.0661
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47_exercise_intention_g_11d9c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3403,
+      "phases": {
+        "preparation": 0.0319,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5735,
+        "content_cleanup_final": 0.038,
+        "media_svg": 10.5383,
+        "youtube": 0.012,
+        "content_assembly": 0.9431,
+        "monetization": 0.1406,
+        "quality_write": 0.0621
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47_habit_automaticity_l_467fd9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2749,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5747,
+        "content_cleanup_final": 0.0449,
+        "media_svg": 10.4721,
+        "youtube": 0.0143,
+        "content_assembly": 0.9273,
+        "monetization": 0.1468,
+        "quality_write": 0.0673
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_motivation_limits_12bd47_stable_context_habit_664509",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.565,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.7281,
+        "content_cleanup_final": 0.047,
+        "media_svg": 10.4006,
+        "youtube": 0.0132,
+        "content_assembly": 1.1208,
+        "monetization": 0.1503,
+        "quality_write": 0.0757
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_fallback_workouts_a6785b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.3753,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.9004,
+        "content_cleanup_final": 0.0756,
+        "media_svg": 10.6781,
+        "youtube": 0.0133,
+        "content_assembly": 1.1078,
+        "monetization": 2.4899,
+        "quality_write": 0.0815
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_progress_tracking_247b57_missed_session_patte_2fd6eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5894,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7822,
+        "content_cleanup_final": 0.0769,
+        "media_svg": 10.4744,
+        "youtube": 0.014,
+        "content_assembly": 1.0297,
+        "monetization": 0.1161,
+        "quality_write": 0.0695
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_progress_tracking_247b57_progress_avoidance_o_c99ed0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1235,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.5485,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 10.3887,
+        "youtube": 0.0134,
+        "content_assembly": 0.9272,
+        "monetization": 0.1113,
+        "quality_write": 0.0637
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_progress_tracking_247b57_progress_reporting_a_0fc67c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4688,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4598,
+        "content_cleanup_final": 0.0459,
+        "media_svg": 10.588,
+        "youtube": 0.0174,
+        "content_assembly": 1.1497,
+        "monetization": 0.1086,
+        "quality_write": 0.0651
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_progress_tracking_247b57_progress_tracking_ef_6cf48d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5308,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4838,
+        "content_cleanup_final": 0.0398,
+        "media_svg": 10.6854,
+        "youtube": 0.0134,
+        "content_assembly": 1.0976,
+        "monetization": 0.1101,
+        "quality_write": 0.0711
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1454,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3132,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 10.6569,
+        "youtube": 0.0141,
+        "content_assembly": 0.9138,
+        "monetization": 0.1432,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_missed_habit_days_57525c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2578,
+      "phases": {
+        "preparation": 0.0296,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.4838,
+        "content_cleanup_final": 0.0557,
+        "media_svg": 10.548,
+        "youtube": 0.0164,
+        "content_assembly": 0.9384,
+        "monetization": 0.1191,
+        "quality_write": 0.065
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_decision_reduction_c13973_choice_overload_limi_f63247",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6841,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5744,
+        "content_cleanup_final": 0.0499,
+        "media_svg": 10.8186,
+        "youtube": 0.015,
+        "content_assembly": 1.0013,
+        "monetization": 0.1353,
+        "quality_write": 0.0651
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_decision_reduction_c13973_decision_fatigue_cla_3c31bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7837,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8108,
+        "content_cleanup_final": 0.0584,
+        "media_svg": 10.6125,
+        "youtube": 0.0151,
+        "content_assembly": 1.0278,
+        "monetization": 0.1596,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_decision_reduction_c13973_exact_time_action_wi_11a11f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2339,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5205,
+        "content_cleanup_final": 0.0412,
+        "media_svg": 10.4804,
+        "youtube": 0.0146,
+        "content_assembly": 0.9689,
+        "monetization": 0.1199,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_decision_reduction_c13973_preplanned_action_se_639d72",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.429,
+      "phases": {
+        "preparation": 0.0272,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 2.6468,
+        "content_cleanup_final": 0.0614,
+        "media_svg": 10.4777,
+        "youtube": 0.0138,
+        "content_assembly": 0.9832,
+        "monetization": 0.1507,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7045,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.7708,
+        "content_cleanup_final": 0.0581,
+        "media_svg": 10.6435,
+        "youtube": 0.0135,
+        "content_assembly": 1.0035,
+        "monetization": 0.1229,
+        "quality_write": 0.0686
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb_impulse_buying_frict_b476ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.5163,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5716,
+        "content_cleanup_final": 0.0555,
+        "media_svg": 10.4863,
+        "youtube": 0.0348,
+        "content_assembly": 1.0608,
+        "monetization": 1.199,
+        "quality_write": 0.0807
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environment_design_133edb_notification_batchin_8e9a89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.7065,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.7073,
+        "content_cleanup_final": 0.063,
+        "media_svg": 10.9567,
+        "youtube": 0.0149,
+        "content_assembly": 1.0191,
+        "monetization": 0.8281,
+        "quality_write": 0.0888
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07_routine_vs_time_cues_8880c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3693,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4317,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 10.7572,
+        "youtube": 0.0143,
+        "content_assembly": 0.9038,
+        "monetization": 0.1465,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07_stable_context_autom_b4e08a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0509,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3458,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 10.5859,
+        "youtube": 0.0139,
+        "content_assembly": 0.8539,
+        "monetization": 0.1363,
+        "quality_write": 0.0611
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9_actionable_feedback_19ee3f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1156,
+      "phases": {
+        "preparation": 0.0298,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6495,
+        "content_cleanup_final": 0.0494,
+        "media_svg": 11.1835,
+        "youtube": 0.0149,
+        "content_assembly": 0.9799,
+        "monetization": 0.1402,
+        "quality_write": 0.0676
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_temptation_bundling_78b62e_immediate_enjoyment_6384d5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5436,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.7375,
+        "content_cleanup_final": 0.0476,
+        "media_svg": 10.5375,
+        "youtube": 0.0127,
+        "content_assembly": 0.9556,
+        "monetization": 0.152,
+        "quality_write": 0.077
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_temptation_bundling_78b62e_reward_context_cues_fef9c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.7334,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3248,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 10.2279,
+        "youtube": 0.0138,
+        "content_assembly": 0.8954,
+        "monetization": 0.1499,
+        "quality_write": 0.0627
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_near_event_logging_e728c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3351,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5378,
+        "content_cleanup_final": 0.0379,
+        "media_svg": 10.5113,
+        "youtube": 0.0131,
+        "content_assembly": 0.9723,
+        "monetization": 0.1725,
+        "quality_write": 0.0639
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_formation_time_49cd57_what_66_days_really_28bf05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0252,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4058,
+        "content_cleanup_final": 0.033,
+        "media_svg": 10.3268,
+        "youtube": 0.0144,
+        "content_assembly": 0.9946,
+        "monetization": 0.1599,
+        "quality_write": 0.0623
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_formation_time_49cd57_wide_habit_timeline_dc4f84",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.062,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3358,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 10.5445,
+        "youtube": 0.0134,
+        "content_assembly": 0.9002,
+        "monetization": 0.1457,
+        "quality_write": 0.0609
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9_activity_feedback_ev_b33052",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4973,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5756,
+        "content_cleanup_final": 0.0368,
+        "media_svg": 10.6635,
+        "youtube": 0.0154,
+        "content_assembly": 0.9437,
+        "monetization": 0.1686,
+        "quality_write": 0.0656
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9_human_vs_algorithm_f_9b4c31",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7692,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.7963,
+        "content_cleanup_final": 0.0711,
+        "media_svg": 10.5491,
+        "youtube": 0.0137,
+        "content_assembly": 1.052,
+        "monetization": 0.1747,
+        "quality_write": 0.0825
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9_just_in_time_feedbac_1f67d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2837,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.5811,
+        "content_cleanup_final": 0.042,
+        "media_svg": 10.4666,
+        "youtube": 0.0143,
+        "content_assembly": 0.9501,
+        "monetization": 0.1407,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9_more_feedback_not_be_769690",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8847,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8407,
+        "content_cleanup_final": 0.0688,
+        "media_svg": 10.5556,
+        "youtube": 0.0154,
+        "content_assembly": 1.1102,
+        "monetization": 0.1883,
+        "quality_write": 0.0781
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_flexible_habit_cues_760ae5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3205,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.6068,
+        "content_cleanup_final": 0.0473,
+        "media_svg": 10.3546,
+        "youtube": 0.0189,
+        "content_assembly": 1.0242,
+        "monetization": 0.1546,
+        "quality_write": 0.0792
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8_reporting_completed_e3d3d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.278,
+      "phases": {
+        "preparation": 0.0321,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.4789,
+        "content_cleanup_final": 0.0357,
+        "media_svg": 10.5382,
+        "youtube": 0.012,
+        "content_assembly": 0.9099,
+        "monetization": 0.2037,
+        "quality_write": 0.066
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_temptation_bundling_78b62e_real_world_gym_effec_bb1327",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0583,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4628,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 10.4077,
+        "youtube": 0.0129,
+        "content_assembly": 0.9049,
+        "monetization": 0.1356,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_temptation_bundling_78b62e_restricting_temptati_556478",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.9642,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4919,
+        "content_cleanup_final": 0.0467,
+        "media_svg": 10.2821,
+        "youtube": 0.0121,
+        "content_assembly": 0.8973,
+        "monetization": 0.1408,
+        "quality_write": 0.0646
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_temptation_bundling_78b62e_temptation_bundle_ro_5f48e9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.555,
+      "phases": {
+        "preparation": 0.0205,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6593,
+        "content_cleanup_final": 0.1009,
+        "media_svg": 10.496,
+        "youtube": 0.0155,
+        "content_assembly": 1.0549,
+        "monetization": 0.1395,
+        "quality_write": 0.0675
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_adaptive_improvement_465fc2_minimum_useful_adjus_32bc7f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9455,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8565,
+        "content_cleanup_final": 0.0623,
+        "media_svg": 10.7711,
+        "youtube": 0.0183,
+        "content_assembly": 1.0264,
+        "monetization": 0.1167,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_adaptive_improvement_465fc2_repeated_failure_win_3f08b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7589,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.8234,
+        "content_cleanup_final": 0.055,
+        "media_svg": 10.6187,
+        "youtube": 0.025,
+        "content_assembly": 1.0022,
+        "monetization": 0.1336,
+        "quality_write": 0.0714
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_adaptive_improvement_465fc2_retest_failure_condi_b669fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6895,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6769,
+        "content_cleanup_final": 0.0465,
+        "media_svg": 10.7786,
+        "youtube": 0.0119,
+        "content_assembly": 0.9674,
+        "monetization": 0.1146,
+        "quality_write": 0.0676
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_failure_type_13d860",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5164,
+      "phases": {
+        "preparation": 0.0215,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7532,
+        "content_cleanup_final": 0.0626,
+        "media_svg": 10.4717,
+        "youtube": 0.0142,
+        "content_assembly": 1.0062,
+        "monetization": 0.1091,
+        "quality_write": 0.077
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_fallback_mod_1c0477",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.318,
+      "phases": {
+        "preparation": 0.0227,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.647,
+        "content_cleanup_final": 0.0565,
+        "media_svg": 10.4153,
+        "youtube": 0.0234,
+        "content_assembly": 0.9709,
+        "monetization": 0.1102,
+        "quality_write": 0.0712
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1662,
+      "phases": {
+        "preparation": 0.0227,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.3666,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 11.5453,
+        "youtube": 0.0107,
+        "content_assembly": 0.9497,
+        "monetization": 0.1654,
+        "quality_write": 0.0646
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660_habit_recovery_metri_8e244d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3352,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6542,
+        "content_cleanup_final": 0.0521,
+        "media_svg": 11.3752,
+        "youtube": 0.0166,
+        "content_assembly": 1.0116,
+        "monetization": 0.1537,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660_next_normal_habit_cu_f24fb5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2739,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7057,
+        "content_cleanup_final": 0.0629,
+        "media_svg": 11.2535,
+        "youtube": 0.0168,
+        "content_assembly": 1.0182,
+        "monetization": 0.1456,
+        "quality_write": 0.0701
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660_one_missed_day_habit_770103",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7289,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.3817,
+        "content_cleanup_final": 0.0363,
+        "media_svg": 11.1595,
+        "youtube": 0.0138,
+        "content_assembly": 0.9154,
+        "monetization": 0.1387,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_automaticity_learnin_9cd7b9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3449,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6977,
+        "content_cleanup_final": 0.0449,
+        "media_svg": 10.4494,
+        "youtube": 0.0169,
+        "content_assembly": 0.9406,
+        "monetization": 0.1052,
+        "quality_write": 0.0642
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660_stable_context_habit_664509",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.693,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7588,
+        "content_cleanup_final": 0.0611,
+        "media_svg": 10.9502,
+        "youtube": 0.015,
+        "content_assembly": 0.9356,
+        "monetization": 0.8975,
+        "quality_write": 0.0739
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_habits_under_cogniti_35a582",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0999,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.468,
+        "content_cleanup_final": 0.0465,
+        "media_svg": 10.9406,
+        "youtube": 0.0129,
+        "content_assembly": 1.3098,
+        "monetization": 0.2144,
+        "quality_write": 0.0815
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_missed_repetitions_h_d67f4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7337,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5093,
+        "content_cleanup_final": 0.0409,
+        "media_svg": 11.0239,
+        "youtube": 0.0176,
+        "content_assembly": 0.9366,
+        "monetization": 0.1117,
+        "quality_write": 0.0712
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_stable_context_autom_b4e08a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1092,
+      "phases": {
+        "preparation": 0.0415,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.51,
+        "content_cleanup_final": 0.0469,
+        "media_svg": 11.3148,
+        "youtube": 0.0222,
+        "content_assembly": 0.9516,
+        "monetization": 0.1537,
+        "quality_write": 0.067
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_time_vs_routine_cues_73f5c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.8947,
+      "phases": {
+        "preparation": 0.0472,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.2413,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 10.5196,
+        "youtube": 0.0134,
+        "content_assembly": 0.8687,
+        "monetization": 0.1323,
+        "quality_write": 0.0496
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_formation_time_49cd57_morning_evening_habi_29ebb6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5697,
+      "phases": {
+        "preparation": 0.0227,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.717,
+        "content_cleanup_final": 0.0505,
+        "media_svg": 10.5618,
+        "youtube": 0.0149,
+        "content_assembly": 0.9966,
+        "monetization": 0.1366,
+        "quality_write": 0.0688
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_formation_time_49cd57_origin_of_21_day_myt_b64b3c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.0097,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3448,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 10.492,
+        "youtube": 0.0127,
+        "content_assembly": 0.8875,
+        "monetization": 0.1564,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6118,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 2.6362,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 10.6098,
+        "youtube": 0.0161,
+        "content_assembly": 1.0518,
+        "monetization": 0.1444,
+        "quality_write": 0.075
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_recovery_after_e2887d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7218,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7463,
+        "content_cleanup_final": 0.0535,
+        "media_svg": 10.7119,
+        "youtube": 0.0154,
+        "content_assembly": 0.9846,
+        "monetization": 0.1125,
+        "quality_write": 0.0718
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_startup_fricti_94ef9c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9053,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8246,
+        "content_cleanup_final": 0.0649,
+        "media_svg": 10.7278,
+        "youtube": 0.0144,
+        "content_assembly": 1.0448,
+        "monetization": 0.1274,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_timing_mismatc_de5a51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8517,
+      "phases": {
+        "preparation": 0.0432,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.6489,
+        "content_cleanup_final": 0.0452,
+        "media_svg": 10.9563,
+        "youtube": 0.0167,
+        "content_assembly": 0.9669,
+        "monetization": 0.1078,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_shrink_overlarge_hab_e91a83",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9518,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 3.0394,
+        "content_cleanup_final": 0.0979,
+        "media_svg": 10.5113,
+        "youtube": 0.0152,
+        "content_assembly": 1.0764,
+        "monetization": 0.1089,
+        "quality_write": 0.075
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_goal_metric_fixation_ca2ec2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9493,
+      "phases": {
+        "preparation": 0.0299,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8666,
+        "content_cleanup_final": 0.0618,
+        "media_svg": 10.7305,
+        "youtube": 0.0179,
+        "content_assembly": 1.0053,
+        "monetization": 0.159,
+        "quality_write": 0.0773
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_learning_before_targ_468791",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3431,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6459,
+        "content_cleanup_final": 0.0563,
+        "media_svg": 10.3953,
+        "youtube": 0.0118,
+        "content_assembly": 0.9872,
+        "monetization": 0.1445,
+        "quality_write": 0.0759
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_noisy_outcome_metric_3660ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.008,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.8673,
+        "content_cleanup_final": 0.0647,
+        "media_svg": 10.7839,
+        "youtube": 0.0158,
+        "content_assembly": 1.0231,
+        "monetization": 0.1476,
+        "quality_write": 0.0778
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_process_goals_execut_cf86d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4538,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.414,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 10.8237,
+        "youtube": 0.0141,
+        "content_assembly": 0.9313,
+        "monetization": 0.1469,
+        "quality_write": 0.0633
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_written_progress_log_2cf0e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2673,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4716,
+        "content_cleanup_final": 0.0405,
+        "media_svg": 10.6066,
+        "youtube": 0.0126,
+        "content_assembly": 0.8947,
+        "monetization": 0.1429,
+        "quality_write": 0.0718
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_acute_exercise_cogni_e54908",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3632,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6248,
+        "content_cleanup_final": 0.0422,
+        "media_svg": 10.5047,
+        "youtube": 0.0122,
+        "content_assembly": 0.9724,
+        "monetization": 0.109,
+        "quality_write": 0.0696
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_sleep_capac_732c85",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0554,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.8598,
+        "content_cleanup_final": 0.0738,
+        "media_svg": 10.7891,
+        "youtube": 0.0144,
+        "content_assembly": 1.0852,
+        "monetization": 0.1277,
+        "quality_write": 0.0805
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_volume_trad_abd7e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5891,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0024,
+        "internal_links": 2.7104,
+        "content_cleanup_final": 0.0585,
+        "media_svg": 10.5288,
+        "youtube": 0.0165,
+        "content_assembly": 1.0461,
+        "monetization": 0.1231,
+        "quality_write": 0.0788
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_start_below_guidelin_595302",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6539,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 2.8424,
+        "content_cleanup_final": 0.0716,
+        "media_svg": 10.5621,
+        "youtube": 0.0176,
+        "content_assembly": 0.9764,
+        "monetization": 0.0694,
+        "quality_write": 0.0725
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_automatic_habit_star_f80818",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4856,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.5495,
+        "content_cleanup_final": 0.049,
+        "media_svg": 10.6837,
+        "youtube": 0.0146,
+        "content_assembly": 0.9553,
+        "monetization": 0.1437,
+        "quality_write": 0.0634
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8_accountability_press_46445a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6661,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6056,
+        "content_cleanup_final": 0.0574,
+        "media_svg": 10.7622,
+        "youtube": 0.0138,
+        "content_assembly": 0.9932,
+        "monetization": 0.1379,
+        "quality_write": 0.072
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8_goals_vs_progress_re_348921",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3192,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5135,
+        "content_cleanup_final": 0.0357,
+        "media_svg": 10.5196,
+        "youtube": 0.0154,
+        "content_assembly": 0.9917,
+        "monetization": 0.1521,
+        "quality_write": 0.0689
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8_social_visibility_pr_b99e32",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1272,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4076,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 10.535,
+        "youtube": 0.0146,
+        "content_assembly": 0.9047,
+        "monetization": 0.1518,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_social_accountabilit_aadcd8_supportive_accountab_9f93b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.492,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5368,
+        "content_cleanup_final": 0.0487,
+        "media_svg": 10.7313,
+        "youtube": 0.0119,
+        "content_assembly": 0.9298,
+        "monetization": 0.1455,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_binary_habit_trackin_da7428",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7271,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.7574,
+        "content_cleanup_final": 0.061,
+        "media_svg": 10.6043,
+        "youtube": 0.0169,
+        "content_assembly": 1.0464,
+        "monetization": 0.1463,
+        "quality_write": 0.0693
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_measurement_reactivi_2cc9ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7707,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.669,
+        "content_cleanup_final": 0.0493,
+        "media_svg": 10.8213,
+        "youtube": 0.0165,
+        "content_assembly": 0.9767,
+        "monetization": 0.1451,
+        "quality_write": 0.07
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_missed_session_patte_2fd6eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3313,
+      "phases": {
+        "preparation": 0.0318,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.728,
+        "content_cleanup_final": 0.054,
+        "media_svg": 10.308,
+        "youtube": 0.0119,
+        "content_assembly": 0.9757,
+        "monetization": 0.1562,
+        "quality_write": 0.0648
+      }
+    },
+    {
+      "base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_paper_vs_digital_tra_0db3b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.4723,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5969,
+        "content_cleanup_final": 0.0422,
+        "media_svg": 9.7061,
+        "youtube": 0.0122,
+        "content_assembly": 0.8863,
+        "monetization": 0.14,
+        "quality_write": 0.0599
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 241,
+    "reused_pages": 0,
+    "rebuilt_pages": 241,
+    "error_pages": 0,
+    "page_work_wall_seconds": 1245.5893,
+    "rebuilt_pages_per_minute": 11.609,
+    "queued_rebuild_pages_per_minute": 11.609,
+    "apparent_page_work_speedup": 2.942,
+    "youtube_cache_prepare": {
+      "entries": 44915,
+      "updated": true,
+      "elapsed_seconds": 5.5423
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 241,
+      "successful_pages": 241,
+      "failed_pages": 0,
+      "worker_summary": {
+        "11872": {
+          "pages": 81,
+          "successes": 81,
+          "failures": 0,
+          "total_worker_seconds": 1230.6165,
+          "max_worker_seconds": 23.8402,
+          "last_base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_missed_session_patte_2fd6eb"
+        },
+        "30012": {
+          "pages": 81,
+          "successes": 81,
+          "failures": 0,
+          "total_worker_seconds": 1232.1652,
+          "max_worker_seconds": 23.7479,
+          "last_base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_paper_vs_digital_tra_0db3b8"
+        },
+        "26456": {
+          "pages": 79,
+          "successes": 79,
+          "failures": 0,
+          "total_worker_seconds": 1215.0999,
+          "max_worker_seconds": 23.1212,
+          "last_base_name": "self_improvement_tha_c01280_written_progress_rec_ba20d1_measurement_reactivi_2cc9ac"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "self_improvement_tha_c01280",
+          "level": 1,
+          "success": true,
+          "worker_pid": 11872,
+          "worker_duration_seconds": 23.8402,
+          "total_seconds": 23.7774,
+          "worker_started_at_utc": "2026-08-20T05:05:13.076032Z",
+          "worker_finished_at_utc": "2026-08-20T05:05:36.853502Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_sleep_mood_df2119",
+          "level": 2,
+          "success": true,
+          "worker_pid": 30012,
+          "worker_duration_seconds": 23.7479,
+          "total_seconds": 23.6809,
+          "worker_started_at_utc": "2026-08-20T05:05:16.488495Z",
+          "worker_finished_at_utc": "2026-08-20T05:05:40.169516Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_missed_days_68e864",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26456,
+          "worker_duration_seconds": 23.1212,
+          "total_seconds": 23.0282,
+          "worker_started_at_utc": "2026-08-20T05:05:20.545855Z",
+          "worker_finished_at_utc": "2026-08-20T05:05:43.574175Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_scaling_habits_a1298a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26456,
+          "worker_duration_seconds": 21.0802,
+          "total_seconds": 21.0247,
+          "worker_started_at_utc": "2026-08-20T05:06:00.919200Z",
+          "worker_finished_at_utc": "2026-08-20T05:06:21.943986Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+          "level": 2,
+          "success": true,
+          "worker_pid": 30012,
+          "worker_duration_seconds": 20.0768,
+          "total_seconds": 20.0145,
+          "worker_started_at_utc": "2026-08-20T05:06:50.220390Z",
+          "worker_finished_at_utc": "2026-08-20T05:07:10.234972Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+          "level": 2,
+          "success": true,
+          "worker_pid": 11872,
+          "worker_duration_seconds": 19.6913,
+          "total_seconds": 19.6438,
+          "worker_started_at_utc": "2026-08-20T05:05:36.918395Z",
+          "worker_finished_at_utc": "2026-08-20T05:05:56.562249Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_environmental_cues_e06b07",
+          "level": 2,
+          "success": true,
+          "worker_pid": 30012,
+          "worker_duration_seconds": 19.5175,
+          "total_seconds": 19.461,
+          "worker_started_at_utc": "2026-08-20T05:08:02.551062Z",
+          "worker_finished_at_utc": "2026-08-20T05:08:22.012091Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26456,
+          "worker_duration_seconds": 18.6816,
+          "total_seconds": 18.6094,
+          "worker_started_at_utc": "2026-08-20T05:08:23.235127Z",
+          "worker_finished_at_utc": "2026-08-20T05:08:41.844625Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+          "level": 2,
+          "success": true,
+          "worker_pid": 30012,
+          "worker_duration_seconds": 18.6289,
+          "total_seconds": 18.5723,
+          "worker_started_at_utc": "2026-08-20T05:07:10.300251Z",
+          "worker_finished_at_utc": "2026-08-20T05:07:28.872583Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26456,
+          "worker_duration_seconds": 18.6244,
+          "total_seconds": 18.5714,
+          "worker_started_at_utc": "2026-08-20T05:08:04.608496Z",
+          "worker_finished_at_utc": "2026-08-20T05:08:23.179916Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

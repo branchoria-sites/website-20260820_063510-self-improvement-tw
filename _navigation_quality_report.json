@@ -1,0 +1,2497 @@
+{
+  "generated_at_utc": "2026-08-20T05:28:28.425854Z",
+  "summary": {
+    "total_pages_with_permalink": 282,
+    "visible_pages": 241,
+    "hidden_pages": 41,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1413,
+    "inline_internal_target_page_count": 241,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 240,
+    "visible_pages_without_inline_outbound_links": 1,
+    "average_inline_inbound_links_per_visible_page": 5.86,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 241,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_minimum_prep_conveni_235c8f",
+        "title": "Minimum Prep",
+        "permalink": "/minimum-prep/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "self_improvement_tha_c01280",
+        "title": "What Actually Makes Self Improvement Stick?",
+        "permalink": "/self-improvement-that-works/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+        "title": "Adapt the Plan",
+        "permalink": "/adapt-the-plan/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_minimum_useful_adjus_32bc7f",
+        "title": "Small Adjustments",
+        "permalink": "/small-adjustments/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_repeated_failure_win_3f08b6",
+        "title": "Failure Windows",
+        "permalink": "/failure-windows/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_retest_failure_condi_b669fd",
+        "title": "Re Test",
+        "permalink": "/re-test/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_failure_type_13d860",
+        "title": "A Routine Can Fail At Several Different Points, And The...",
+        "permalink": "/a-routine-can-fail-at-several/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_fallback_mod_1c0477",
+        "title": "Fallback Mode",
+        "permalink": "/fallback-mode/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "title": "Behaviour Goals",
+        "permalink": "/behaviour-goals/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_goal_contr_7068c3",
+        "title": "Control Test",
+        "permalink": "/control-test/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_metrics_qu_38f726",
+        "title": "Goal Metrics",
+        "permalink": "/goal-metrics/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e",
+        "title": "Coping Plans",
+        "permalink": "/coping-plans/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921_if_then_plans_58a9d0",
+        "title": "If Then Plans",
+        "permalink": "/if-then-plans-8234f6/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921_outcomes_to_actions_8e9647",
+        "title": "Action Goals",
+        "permalink": "/action-goals/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "title": "Complex Habits",
+        "permalink": "/complex-habits/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_automatic_routine_st_3f7b32",
+        "title": "Starting Automatically",
+        "permalink": "/starting-automatically/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36",
+        "title": "Formation Times",
+        "permalink": "/formation-times/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_low_frequency_habit_99db7c",
+        "title": "Repetition Frequency",
+        "permalink": "/repetition-frequency/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_preparation_failure_86fb90",
+        "title": "Preparation Barriers",
+        "permalink": "/preparation-barriers/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_stable_context_compl_3bc2a4",
+        "title": "Stable Contexts",
+        "permalink": "/stable-contexts-196b65/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "title": "Consistency",
+        "permalink": "/consistency/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255",
+        "title": "Broken Streaks",
+        "permalink": "/broken-streaks/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_habit_recovery_metri_8e244d",
+        "title": "Recovery Metrics",
+        "permalink": "/recovery-metrics/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_next_normal_habit_cu_f24fb5",
+        "title": "Next Cue",
+        "permalink": "/next-cue/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_one_missed_day_habit_770103",
+        "title": "One Miss",
+        "permalink": "/one-miss-a78025/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_stable_context_habit_664509",
+        "title": "Stable Context",
+        "permalink": "/stable-context-d39ad9/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "title": "Automaticity",
+        "permalink": "/automaticity/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_automaticity_learnin_9cd7b9",
+        "title": "Habit Timing",
+        "permalink": "/habit-timing-bbb315/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_habits_under_cogniti_35a582",
+        "title": "Under Load",
+        "permalink": "/under-load/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_missed_repetitions_h_d67f4c",
+        "title": "Missed Days",
+        "permalink": "/missed-days-4dc92c/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_stable_context_autom_b4e08a",
+        "title": "Stable Contexts",
+        "permalink": "/stable-contexts-0d556e/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_time_vs_routine_cues_73f5c5",
+        "title": "Cue Types",
+        "permalink": "/cue-types/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973",
+        "title": "Fewer Decisions",
+        "permalink": "/fewer-decisions/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973_choice_overload_limi_f63247",
+        "title": "Choice Overload",
+        "permalink": "/choice-overload/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973_decision_fatigue_cla_3c31bc",
+        "title": "Decision Fatigue",
+        "permalink": "/decision-fatigue/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973_exact_time_action_wi_11a11f",
+        "title": "Exact Timing",
+        "permalink": "/exact-timing/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973_preplanned_action_se_639d72",
+        "title": "Action Sequences",
+        "permalink": "/action-sequences/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "title": "Remembering",
+        "permalink": "/remembering/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb",
+        "title": "Design Around Temptation",
+        "permalink": "/design-around-temptation/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb_greyscale_phone_use_35aaad",
+        "title": "Greyscale Phones",
+        "permalink": "/greyscale-phones/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb_impulse_buying_frict_b476ff",
+        "title": "Spending Friction",
+        "permalink": "/spending-friction/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb_notification_batchin_8e9a89",
+        "title": "Notification Batching",
+        "permalink": "/notification-batching/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb_shopping_defaults_87d2bf",
+        "title": "Shopping Defaults",
+        "permalink": "/shopping-defaults/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb_temptation_bundling_177a03",
+        "title": "Temptation Bundling",
+        "permalink": "/temptation-bundling-56f089/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "title": "Useful Cues",
+        "permalink": "/useful-cues/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_cue_at_action_start_cc34ba",
+        "title": "Cue Placement",
+        "permalink": "/cue-placement/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_reminder_background_b61d10",
+        "title": "Reminder Overload",
+        "permalink": "/reminder-overload/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_routine_vs_time_cues_8880c4",
+        "title": "Routine or Time",
+        "permalink": "/routine-or-time/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_specific_vs_general_ed9c1f",
+        "title": "Specific Prompts",
+        "permalink": "/specific-prompts/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_stable_context_autom_b4e08a",
+        "title": "Stable Contexts",
+        "permalink": "/stable-contexts-452254/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "title": "Evidence Limits",
+        "permalink": "/evidence-limits/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+        "title": "Average Effects",
+        "permalink": "/average-effects/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_growth_mindset_meta_2173ae",
+        "title": "Growth Mindset",
+        "permalink": "/growth-mindset/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_habit_66_day_myth_f43554",
+        "title": "66 Day Myth",
+        "permalink": "/66-day-myth/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_self_regulation_mech_36b436",
+        "title": "Mechanism Gap",
+        "permalink": "/mechanism-gap/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_visible_progress_tra_29ec5e",
+        "title": "Visible Tracking",
+        "permalink": "/visible-tracking/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "title": "Exercise",
+        "permalink": "/exercise/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617",
+        "title": "Workout Location",
+        "permalink": "/workout-location/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719_exercise_session_rec_bf079c",
+        "title": "Session Records",
+        "permalink": "/session-records/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719_exercise_starting_ri_6c9847",
+        "title": "Starting Rituals",
+        "permalink": "/starting-rituals/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719_fallback_home_workou_ad9aa7",
+        "title": "Fallback Workouts",
+        "permalink": "/fallback-workouts/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719_minimum_workout_star_f013c0",
+        "title": "Minimum Start",
+        "permalink": "/minimum-start/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "title": "Goal Difficulty",
+        "permalink": "/goal-difficulty/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_effort_vs_strategy_d_484112",
+        "title": "Effort vs Strategy",
+        "permalink": "/effort-vs-strategy/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_extreme_stretch_goal_61e684",
+        "title": "Stretch Goals",
+        "permalink": "/stretch-goals/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "title": "Feedback",
+        "permalink": "/feedback/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_goal_difficulty_curr_146b5c",
+        "title": "Right Difficulty",
+        "permalink": "/right-difficulty/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_hard_goals_novice_pe_0a6b98",
+        "title": "Novice Goals",
+        "permalink": "/novice-goals/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "title": "Habit Timelines",
+        "permalink": "/habit-timelines/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_morning_evening_habi_29ebb6",
+        "title": "Habit Timing",
+        "permalink": "/habit-timing-129285/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_origin_of_21_day_myt_b64b3c",
+        "title": "21 Day Myth",
+        "permalink": "/21-day-myth/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b",
+        "title": "Stable Cues",
+        "permalink": "/stable-cues/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_what_66_days_really_28bf05",
+        "title": "66 Day Study",
+        "permalink": "/66-day-study/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_wide_habit_timeline_dc4f84",
+        "title": "Timeline Range",
+        "permalink": "/timeline-range/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+        "title": "Fix the System",
+        "permalink": "/fix-the-system/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_cue_failure_3c28f9",
+        "title": "Cue Failure",
+        "permalink": "/cue-failure/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_recovery_after_e2887d",
+        "title": "Missed Days",
+        "permalink": "/missed-days-17f23f/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_startup_fricti_94ef9c",
+        "title": "Start Friction",
+        "permalink": "/start-friction/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_timing_mismatc_de5a51",
+        "title": "Bad Timing",
+        "permalink": "/bad-timing/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_shrink_overlarge_hab_e91a83",
+        "title": "Shrink the Habit",
+        "permalink": "/shrink-the-habit/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "title": "If Then Plans",
+        "permalink": "/if-then-plans/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_choosing_reliable_cu_d2d8ee",
+        "title": "Choosing Cues",
+        "permalink": "/choosing-cues/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_if_then_plan_specifi_09d47d",
+        "title": "Plan Specificity",
+        "permalink": "/plan-specificity/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8",
+        "title": "Automatic Action",
+        "permalink": "/automatic-action/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_strong_habit_limits_dfb19b",
+        "title": "Strong Habits",
+        "permalink": "/strong-habits/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_weak_motivation_limi_497fdc",
+        "title": "Weak Motivation",
+        "permalink": "/weak-motivation/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "title": "Immediate Rewards",
+        "permalink": "/immediate-rewards/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyable_habit_vers_2b4030",
+        "title": "Better Choices",
+        "permalink": "/better-choices/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b",
+        "title": "Enjoyment",
+        "permalink": "/enjoyment/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_external_reward_pitf_42a96c",
+        "title": "Reward Pitfalls",
+        "permalink": "/reward-pitfalls/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_reward_timing_habits_9ef38b",
+        "title": "Reward Timing",
+        "permalink": "/reward-timing/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_temptation_bundling_177a03",
+        "title": "Temptation Bundling",
+        "permalink": "/temptation-bundling-f128a0/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "title": "Learning Goals",
+        "permalink": "/learning-goals/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_learning_goals_d057c5_explanation_learning_ff65c1",
+        "title": "Explain It",
+        "permalink": "/explain-it/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_learning_goals_d057c5_measuring_learning_g_c07a6f",
+        "title": "Measure Learning",
+        "permalink": "/measure-learning/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_learning_goals_d057c5_strategy_discovery_g_2f1876",
+        "title": "Find Strategies",
+        "permalink": "/find-strategies/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_learning_goals_d057c5_switch_to_performanc_3624de",
+        "title": "When to Switch",
+        "permalink": "/when-to-switch/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_learning_goals_d057c5_test_compare_learnin_559df1",
+        "title": "Test Methods",
+        "permalink": "/test-methods/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "title": "Meal Prep",
+        "permalink": "/meal-prep/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_component_cooking_va_18d321",
+        "title": "Component Cooking",
+        "permalink": "/component-cooking/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_emergency_freezer_me_97bd36",
+        "title": "Freezer Backup",
+        "permalink": "/freezer-backup/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_ingredient_prep_week_edd377",
+        "title": "Ingredient Prep",
+        "permalink": "/ingredient-prep/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_minimum_prep_conveni_235c8f",
+        "title": "Minimum Prep",
+        "permalink": "/minimum-prep/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_pre_portioned_meals_69cc2b",
+        "title": "Pre Portioning",
+        "permalink": "/pre-portioning/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "title": "Simple Metrics",
+        "permalink": "/simple-metrics/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_behaviour_before_out_b06df3",
+        "title": "Behaviour First",
+        "permalink": "/behaviour-first/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_measure_current_unce_e58dd1",
+        "title": "Current Uncertainty",
+        "permalink": "/current-uncertainty/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_retire_finished_metr_b2caaa",
+        "title": "Retire Metrics",
+        "permalink": "/retire-metrics/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_simplified_food_trac_37732c",
+        "title": "Simpler Tracking",
+        "permalink": "/simpler-tracking/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_study_sessions_to_re_e7a6c5",
+        "title": "Learning Checks",
+        "permalink": "/learning-checks/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864",
+        "title": "Missed Days",
+        "permalink": "/missed-days/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de",
+        "title": "Longer Breaks",
+        "permalink": "/longer-breaks/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864_one_missed_day_habit_6826e7",
+        "title": "One Miss",
+        "permalink": "/one-miss/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+        "title": "Repeated Misses",
+        "permalink": "/repeated-misses/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864_stable_cues_after_la_9d56e2",
+        "title": "Keep the Cue",
+        "permalink": "/keep-the-cue/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864_streaks_vs_habit_pro_66fffa",
+        "title": "Streak vs Habit",
+        "permalink": "/streak-vs-habit/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "title": "Useful Feedback",
+        "permalink": "/useful-feedback/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_actionable_feedback_19ee3f",
+        "title": "Next Steps",
+        "permalink": "/next-steps/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_activity_feedback_ev_b33052",
+        "title": "Activity Evidence",
+        "permalink": "/activity-evidence/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_human_vs_algorithm_f_9b4c31",
+        "title": "Human vs Algorithm",
+        "permalink": "/human-vs-algorithm/"
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_just_in_time_feedbac_1f67d0",
+        "title": "Right Timing",
+        "permalink": "/right-timing/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "title": "Exercise",
+        "permalink": "/exercise/",
+        "inline_inbound_count": 166
+      },
+      {
+        "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "title": "Physical Capacity",
+        "permalink": "/physical-capacity/",
+        "inline_inbound_count": 116
+      },
+      {
+        "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "title": "Automaticity",
+        "permalink": "/automaticity/",
+        "inline_inbound_count": 94
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "title": "Feedback",
+        "permalink": "/feedback/",
+        "inline_inbound_count": 86
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "title": "Consistency",
+        "permalink": "/consistency/",
+        "inline_inbound_count": 79
+      },
+      {
+        "basename": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "title": "Self Control",
+        "permalink": "/self-control/",
+        "inline_inbound_count": 52
+      },
+      {
+        "basename": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "title": "Remembering",
+        "permalink": "/remembering/",
+        "inline_inbound_count": 51
+      },
+      {
+        "basename": "self_improvement_tha_c01280",
+        "title": "What Actually Makes Self Improvement Stick?",
+        "permalink": "/self-improvement-that-works/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "self_improvement_tha_c01280_work_preparation_bd6e63_visible_next_action_c256aa",
+        "title": "Next Action",
+        "permalink": "/next-action/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540",
+        "title": "Time of Day",
+        "permalink": "/time-of-day/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53",
+        "title": "Notifications",
+        "permalink": "/notifications/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+        "title": "Mental Habits",
+        "permalink": "/mental-habits/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2",
+        "title": "First Action",
+        "permalink": "/first-action/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36",
+        "title": "Formation Times",
+        "permalink": "/formation-times/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "title": "Useful Cues",
+        "permalink": "/useful-cues/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b",
+        "title": "Enjoyment",
+        "permalink": "/enjoyment/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "title": "Useful Feedback",
+        "permalink": "/useful-feedback/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "title": "Immediate Rewards",
+        "permalink": "/immediate-rewards/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "title": "Meal Prep",
+        "permalink": "/meal-prep/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+        "title": "Repeated Misses",
+        "permalink": "/repeated-misses/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "self_improvement_tha_c01280_motivation_limits_12bd47_habit_automaticity_l_467fd9",
+        "title": "Habit Limits",
+        "permalink": "/habit-limits/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e",
+        "title": "Coping Plans",
+        "permalink": "/coping-plans/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+        "title": "Average Effects",
+        "permalink": "/average-effects/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "self_improvement_tha_c01280_environment_design_133edb",
+        "title": "Design Around Temptation",
+        "permalink": "/design-around-temptation/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "title": "Precommitment",
+        "permalink": "/precommitment/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "title": "Reduce Friction",
+        "permalink": "/reduce-friction/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e_temptation_bundle_ro_5f48e9",
+        "title": "Routine Breaks",
+        "permalink": "/routine-breaks/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "title": "Goal Difficulty",
+        "permalink": "/goal-difficulty/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_just_in_time_feedbac_1f67d0",
+        "title": "Right Timing",
+        "permalink": "/right-timing/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "title": "Behaviour Goals",
+        "permalink": "/behaviour-goals/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b",
+        "title": "Stable Cues",
+        "permalink": "/stable-cues/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_process_goals_execut_cf86d3",
+        "title": "Process Goals",
+        "permalink": "/process-goals/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144",
+        "title": "Too Small",
+        "permalink": "/too-small/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "title": "Complex Habits",
+        "permalink": "/complex-habits/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_origin_of_21_day_myt_b64b3c",
+        "title": "21 Day Myth",
+        "permalink": "/21-day-myth/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_actionable_feedback_19ee3f",
+        "title": "Next Steps",
+        "permalink": "/next-steps/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665",
+        "title": "Locked Savings",
+        "permalink": "/locked-savings/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+        "title": "Small Habits",
+        "permalink": "/small-habits/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "self_improvement_tha_c01280_willpower_myths_6f400f_ego_depletion_limits_b4faa7",
+        "title": "Ego Depletion",
+        "permalink": "/ego-depletion/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255",
+        "title": "Broken Streaks",
+        "permalink": "/broken-streaks/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_missed_days_68e864",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_motivation_limits_12bd47",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_progress_tracking_247b57",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_sleep_foundation_55d7b8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_spending_systems_60275f",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_temptation_bundling_78b62e",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_work_preparation_bd6e63",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_written_progress_rec_ba20d1",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_missed_days_68e864",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_motivation_limits_12bd47",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_progress_tracking_247b57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_foundation_55d7b8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_spending_systems_60275f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_temptation_bundling_78b62e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_work_preparation_bd6e63",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_written_progress_rec_ba20d1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_short_sleep_daily_st_a3be93",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_loss_effort_co_adcb04",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_positive_affec_76c7f8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280",
+        "type": "ancestor"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_motivation_limits_12bd47",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_progress_tracking_247b57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_sleep_foundation_55d7b8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_spending_systems_60275f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_temptation_bundling_78b62e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_work_preparation_bd6e63",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_written_progress_rec_ba20d1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_one_missed_day_habit_6826e7",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_stable_cues_after_la_9d56e2",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_streaks_vs_habit_pro_66fffa",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280",
+        "type": "ancestor"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_missed_days_68e864",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_motivation_limits_12bd47",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_progress_tracking_247b57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_sleep_foundation_55d7b8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_spending_systems_60275f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_temptation_bundling_78b62e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_work_preparation_bd6e63",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_written_progress_rec_ba20d1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_choosing_reliable_cu_d2d8ee",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_if_then_plan_specifi_09d47d",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_index",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_strong_habit_limits_dfb19b",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_weak_motivation_limi_497fdc",
+        "type": "child"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280",
+        "type": "ancestor"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280",
+        "type": "parent"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "type": "sibling"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280",
+        "to": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_positive_affec_76c7f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_mood_df2119",
+        "to": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_motivation_limits_12bd47_habit_automaticity_l_467fd9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660_next_normal_habit_cu_f24fb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_missed_days_68e864",
+        "to": "self_improvement_tha_c01280",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_study_systems_0ce3b8",
+        "to": "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_complex_habits_50cb4b",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_learning_goals_d057c5",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc_growth_mindset_meta_2173ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_scaling_habits_a1298a",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_process_goals_execut_cf86d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_behaviour_goals_967921",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "to": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_extreme_stretch_goal_61e684",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+        "to": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_minimal_metrics_e2c419_measure_current_unce_e58dd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_work_preparation_bd6e63_visible_next_action_c256aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_choice_overload_limi_f63247",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_reduce_friction_cd41be",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951_one_night_attention_6998e5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_sleep_attention_c3b951",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_stable_contexts_b82f93",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_environment_design_133edb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_willpower_myths_6f400f_ego_depletion_limits_b4faa7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_willpower_myths_6f400f",
+        "to": "self_improvement_tha_c01280_environmental_cues_e06b07",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc_growth_mindset_meta_2173ae",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+        "to": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "to": "self_improvement_tha_c01280_decision_reduction_c13973_decision_fatigue_cla_3c31bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_meal_preparation_b97ced",
+        "to": "self_improvement_tha_c01280_meal_preparation_b97ced_pre_portioned_meals_69cc2b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "to": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "to": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "to": "self_improvement_tha_c01280_exercise_systems_edd719",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "to": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "to": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+        "to": "self_improvement_tha_c01280_no_magic_formula_7b68b2_need_vs_receptivity_2a9489",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

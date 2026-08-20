@@ -1,0 +1,55 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 241,
+    "max_level": 3,
+    "deep_report_count": 200,
+    "level_1_count": 1,
+    "level_counts": {
+      "1": 1,
+      "2": 40,
+      "3": 200
+    },
+    "max_children_any_node": 40,
+    "p90_children": 5,
+    "p90_topic_children": 40,
+    "avg_children": 5.85,
+    "primary_branch_count": 40,
+    "visible_nodes_depth_2": 41,
+    "visible_nodes_depth_3": 241,
+    "max_depth": 2,
+    "max_breadth": 200,
+    "breadth_by_depth": {
+      "0": 1,
+      "1": 40,
+      "2": 200
+    },
+    "p90_title_length": 17,
+    "root_density_tier": "very-dense",
+    "top_branch_density_counts": {
+      "sparse": 0,
+      "balanced": 0,
+      "dense": 0,
+      "very-dense": 1
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": true,
+    "topic_labels": [
+      "What Actually Makes Self Improvement Stick?"
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "verdant-field",
+    "site_visual_identity_source": "remote_model",
+    "site_visual_identity_confidence": "high",
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "hybrid",
+    "palette": "verdant-field",
+    "motif": "constellation"
+  },
+  "candidates": []
+}

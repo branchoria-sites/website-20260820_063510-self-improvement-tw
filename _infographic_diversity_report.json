@@ -1,0 +1,5799 @@
+{
+  "generated_at_utc": "2026-08-20T05:28:27.732897Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 241,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "self_improvement_tha_c01280_environment_design_133edb_temptation_bundling_177a03",
+      "title": "Can You Make Exercise Easier to Want?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "timeline_horizon",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanics of Temptation Bundling",
+        "Gym Visit Results by Study Type",
+        "Components of a Durable Bundle"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "self_improvement_tha_c01280",
+      "title": "What Actually Makes Self Improvement Stick?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evidence Aligned Self Improvement Method",
+        "Motivation vs. System Design",
+        "Techniques for Behavior Change"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2",
+      "title": "Treat Repeated Failure as Data, Not a Verdict",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Adaptive Self Improvement Feedback Loop",
+        "Classification of Behavioral Failures",
+        "Hierarchy of Goal Adjustment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_minimum_useful_adjus_32bc7f",
+      "title": "Why Small Routine Changes Are Easier to Test",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Minimum Useful Adjustment Workflow",
+        "Targeted vs. Whole sale Redesign",
+        "Routine Friction Diagnosis Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_repeated_failure_win_3f08b6",
+      "title": "When Repeated Failures Mean Your Routine Needs Redesign",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Diagnosing Predictable Routine Failures",
+        "Global Judgement vs Local Diagnosis",
+        "Informative Contextual Failure Windows"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_retest_failure_condi_b669fd",
+      "title": "Test Your New Routine Where the Old One Failed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Routine Stress Testing Workflow",
+        "Routine Success vs. Robustness",
+        "Diagnosis of Routine Failure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_failure_type_13d860",
+      "title": "What Kind of Routine Failure Keeps Happening?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Routine Failure Diagnostic Key Stages",
+        "Cue Failure vs Obstacle Failure",
+        "Mechanisms of Routine Breakdown"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_adaptive_improvement_465fc2_routine_fallback_mod_1c0477",
+      "title": "Build a Backup Routine for Days That Go Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Designing a Robust Fallback System",
+        "Continuity Insurance vs. Streak Insurance",
+        "Three Situations for Fallback Mode"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_behaviour_goals_967921",
+      "title": "Turn Big Goals Into Actions You Can Do",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Converting Intentions into Actionable Goals",
+        "Outcome Goals vs. Behavior Goals",
+        "Domain Specific Behavior Goal Examples"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_goal_contr_7068c3",
+      "title": "Is Your Goal Really Under Your Control?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "The Three Part Behaviour Goal Test",
+        "Outcome vs. Behavioural Goal Pairs",
+        "Risks of Misaligned Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_behaviour_goals_967921_behaviour_metrics_qu_38f726",
+      "title": "Are You Measuring the Wrong Behaviour?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_snake",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Quantity vs Quality Goal Trade offs",
+        "Designing Robust Behavior Metrics",
+        "Common Metric Failure Modes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e",
+      "title": "What Will You Do When the Plan Breaks?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Diagnostic Key Stages for Barrier Identification",
+        "Action Planning vs. Coping Planning",
+        "Coping Plan Design Properties"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_behaviour_goals_967921_if_then_plans_58a9d0",
+      "title": "Why If Then Plans Make Starting Easier",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Constructing a Functional If Then Plan",
+        "Vague Goals vs. If Then Plans",
+        "Types of Cues in Implementation Intentions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_behaviour_goals_967921_outcomes_to_actions_8e9647",
+      "title": "Can You Actually Perform Your Goal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Translating Outcomes into Actionable Goals",
+        "Outcome Goals vs. Process Goals",
+        "Domain Specific Actionable Goals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_complex_habits_50cb4b",
+      "title": "Why Some Habits Take Far Longer Than Others",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Habitual Instigation",
+        "Simple vs Complex Habit Dynamics",
+        "Factors Inhibiting Habit Automaticity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_automatic_routine_st_3f7b32",
+      "title": "Why Starting the Routine May Be the Real Habit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Habitual Instigation Gateway",
+        "Instigation vs. Execution Dynamics",
+        "Gateway Design Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_complex_habit_format_2bbf36",
+      "title": "There Is No Universal Day When Habits Click",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Evolution of Habit Formation Time lines",
+        "Instigation vs Execution Habits",
+        "Habit Formation Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_low_frequency_habit_99db7c",
+      "title": "Why Twice a Week Habits May Take Much Longer",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Habit Automaticity",
+        "Daily vs. Twice Weekly Habit Learning",
+        "Determinants of Habit Strength"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_preparation_failure_86fb90",
+      "title": "Why Complex Habits Often Fail Before They Start",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Home Cooking Behavioral Chain",
+        "Productive vs Overhead Preparation",
+        "Upstream Failure Points in Habits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_complex_habits_50cb4b_stable_context_compl_3bc2a4",
+      "title": "Why the Same Time and Place Can Matter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Building Complex Habit Infrastructure",
+        "Context Stability vs. Varied Settings",
+        "Hierarchy of Habit Infrastructure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660",
+      "title": "Consistency Matters More Than a Perfect Streak",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Reliable Return Strategy for Habits",
+        "Lapse vs. Breakdown Comparison",
+        "Habit Formation Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_broken_streak_motiva_edf255",
+      "title": "Why a Broken Streak Can Make You Quit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "grid_stats",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "The Psychology of Broken Streaks",
+        "Streak Behavior Study Results",
+        "Consistency vs. Perfection Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_habit_recovery_metri_8e244d",
+      "title": "Track How Fast You Return, Not Just Streaks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "process_pipeline"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Hierarchy of Habit Tracking Metrics",
+        "Streak Length vs. Recovery Metrics",
+        "Habit System Governance Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_next_normal_habit_cu_f24fb5",
+      "title": "The Best Time to Restart Is the Next Cue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Habit Recovery via Next Cue",
+        "Repayment vs. Re entry Strategies",
+        "Habit Recovery Response Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_one_missed_day_habit_770103",
+      "title": "Does One Miss Really Break a Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lally Study Habit Formation Process",
+        "Single Miss vs. Frequent Inconsistency",
+        "Factors Influencing Habit Strength"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_consistency_not_perf_a22660_stable_context_habit_664509",
+      "title": "Why Doing It in the Same Context Helps",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanism of Habit Automaticity",
+        "Contextual Anchors for Habits",
+        "Habit Discontinuity and Stability"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0",
+      "title": "How Repetition Turns a Choice Into a Habit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Transition from Deliberate Action to Habit",
+        "Deliberate Control vs. Habitual Automaticity",
+        "Signs of Growing Automaticity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_automaticity_learnin_9cd7b9",
+      "title": "Why Habits Do Not Form on a Fixed Day",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Asymptotic Habit Formation Curve",
+        "Habit Formation Data Variations",
+        "Variables Influencing Habit Timing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_habits_under_cogniti_35a582",
+      "title": "Why Practised Habits Survive When Attention Is Busy",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "process"
+      ],
+      "titles": [
+        "Deliberation vs. Practised Cue Response",
+        "Labrecque Sushi Making Experiment Flow",
+        "Strategies for Habit Implementation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_missed_repetitions_h_d67f4c",
+      "title": "Does Missing One Day Reset a Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lally Study Habit Formation Process",
+        "Streak Counters vs. Learned Habits",
+        "Diagnosing Weak Habit Setups"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_stable_context_autom_b4e08a",
+      "title": "Why Stable Contexts Make Habits Easier to Trigger",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Habit Formation",
+        "Repetition vs Context Dependent Repetition",
+        "Criteria for Reliable Habit Contexts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_cue_response_learnin_81d4a0_time_vs_routine_cues_73f5c5",
+      "title": "Should a Habit Follow a Time or Routine?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "process_steps",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "process",
+        "chronology"
+      ],
+      "titles": [
+        "Time Based vs. Routine Based Cues",
+        "Keller Study Habit Findings",
+        "Criteria for Selecting Cues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_decision_reduction_c13973",
+      "title": "Make Fewer Choices When It Is Time to Act",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Implementation Intention Action Key Stages",
+        "Ego Depletion vs. Decision Friction",
+        "Criteria for Pre Decision Planning"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_decision_reduction_c13973_choice_overload_limi_f63247",
+      "title": "When Fewer Choices Help and When They Do Not",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Decision Lifecycle for Self Improvement",
+        "Factors Driving Choice Overload",
+        "Strategies for Managing Choice Sets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_decision_reduction_c13973_decision_fatigue_cla_3c31bc",
+      "title": "Does Decision Fatigue Really Explain Why Planning Helps?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ego Depletion Research Evolution",
+        "Willpower Battery vs. Planning Strategy",
+        "Practical Decision Reduction Tactics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_decision_reduction_c13973_exact_time_action_wi_11a11f",
+      "title": "When an Exact Time Makes Follow Through More Likely",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vaccination Planning Experiment Steps",
+        "Vaccination Rate Comparison Results",
+        "Ideal Goals for Exact Scheduling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_decision_reduction_c13973_preplanned_action_se_639d72",
+      "title": "Preplan the Next Steps Before Hesitation Returns",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Action Key Stages for Report Writing",
+        "Implementation Intentions vs. Scripting",
+        "Optimal Key Stages Design Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9",
+      "title": "Why Good Intentions Vanish at the Crucial Moment",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stages of Prospective Memory Retrieval",
+        "Focal vs Nonfocal Cue Dynamics",
+        "Design Strategies for Action Moments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environment_design_133edb",
+      "title": "Change the Environment Instead of Fighting Yourself",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Environmental Design for Self Control",
+        "Digital Friction vs. Seamless Design",
+        "Tactics for Food and Spending"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environment_design_133edb_greyscale_phone_use_35aaad",
+      "title": "Does Making Your Phone Boring Reduce Screen Time?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Smartphone Screen Time Reductions",
+        "Greyscale vs. Goal Setting",
+        "Mechanisms of Greyscale Intervention"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environment_design_133edb_impulse_buying_frict_b476ff",
+      "title": "Can Extra Checkout Steps Curb Impulse Buying?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Strategic Friction for Impulse Control",
+        "Low Friction vs. High Friction Checkout",
+        "Retailer Choice Architecture Tactics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environment_design_133edb_notification_batchin_8e9a89",
+      "title": "Is Batching Notifications Better Than Turning Them Off?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "grid_stats",
+        "lighthouse"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Notification Batching vs. Total Suppression",
+        "Fitz Study Effect Sizes for Batching",
+        "Strategic Notification Batching Setup"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environment_design_133edb_shopping_defaults_87d2bf",
+      "title": "How Preselected Options Quietly Change What You Buy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Reviewing Defaults Before Purchase",
+        "Preselection vs Visual Prominence",
+        "UK E commerce Default Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environmental_cues_e06b07",
+      "title": "Can Your Environment Remind You to Act?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Habit Formation",
+        "Effective vs. Weak Cues",
+        "Cue Economy Strategies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_cue_at_action_start_cc34ba",
+      "title": "Where Should You Put a Behaviour Cue?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Designing Action Start Cues",
+        "Memory Cues vs Action Start Cues",
+        "Real World Cue Examples"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_reminder_background_b61d10",
+      "title": "When Do Environmental Reminders Stop Getting Noticed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Reminder Habituation",
+        "Vague vs Specific Prompt Efficacy",
+        "Rules for Effective Environmental Cues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_routine_vs_time_cues_8880c4",
+      "title": "Should a Habit Follow a Routine or a Clock?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "tug_of_war",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "process"
+      ],
+      "titles": [
+        "Routine vs. Time Cue Planning",
+        "Keller 2021 Nutrition Trial Data",
+        "Practical Habit Building Strategy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_specific_vs_general_ed9c1f",
+      "title": "Do Specific Reminders Work Better Than General Ones?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Designing Effective Point of Choice Prompts",
+        "General vs Specific Stair Prompts",
+        "Rewriting Vague Reminders into Actions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_environmental_cues_e06b07_stable_context_autom_b4e08a",
+      "title": "Why Repeating a Habit in the Same Context Helps",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanism of Habit Formation",
+        "Clock Time vs. Routine Cues",
+        "Stable Context Examples for Habits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc",
+      "title": "How Strong Is the Evidence Behind Better Habits?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Habit Formation Research",
+        "Mindfulness Intervention Evidence Quality",
+        "Evidence Led Self Improvement Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53",
+      "title": "Why a Positive Average Effect May Not Predict Your Result",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "prism"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Confidence vs Prediction Intervals",
+        "Sources of Statistical Heterogeneity",
+        "Meta Analysis Evidence Patterns"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_growth_mindset_meta_2173ae",
+      "title": "Why Growth Mindset Meta Analyses Disagree So Much",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_snake",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Growth Mindset Meta Analysis Discrepancies",
+        "Evidence Filtering for Growth Mindset",
+        "Factors Influencing Mindset Efficacy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_habit_66_day_myth_f43554",
+      "title": "Does It Really Take 66 Days to Form a Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Habit Formation Learning Curve",
+        "66 Day Rule vs. Scientific Reality",
+        "Factors Influencing Habit Speed"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_self_regulation_mech_36b436",
+      "title": "Do Self Improvement Studies Prove Why Their Techniques Work?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "The CLIMBR Mechanism Testing Pathway",
+        "Outcome Effect vs Mechanism Evidence",
+        "Hennessy Meta Review Mechanism Gap"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_evidence_quality_ef04cc_visible_progress_tra_29ec5e",
+      "title": "Why Visible Progress Tracking Can Improve Goal Follow Through",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Visible Progress Tracking",
+        "Monitoring Behavior vs. Outcomes",
+        "Hierarchy of Self Monitoring Effectiveness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_exercise_systems_edd719",
+      "title": "Build an Exercise Routine That Starts More Easily",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Exercise Governance System",
+        "High vs Low Friction Workouts",
+        "Reliable Exercise Cue Examples"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617",
+      "title": "Is the Best Gym Simply the One You Will Reach?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Dimensions of Gym Accessibility",
+        "Gym A vs. Gym B Friction Analysis",
+        "Reducing Home Workout Friction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_exercise_systems_edd719_exercise_session_rec_bf079c",
+      "title": "Are You Tracking Exercise or Remembering It Optimistically?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Minimalist Exercise Record Workflow",
+        "Self Report vs. Session Records",
+        "Wearable Device Data Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_exercise_systems_edd719_exercise_starting_ri_6c9847",
+      "title": "Why Starting Exercise Matters More Than Repeating Every Detail",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Building a Stable Pre Workout Key Stages",
+        "Instigation vs. Execution Habits",
+        "Components of a Functional Ritual"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_exercise_systems_edd719_fallback_home_workou_ad9aa7",
+      "title": "What Should Happen When Your Normal Workout Falls Apart?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Designing a Functional Fallback Workout",
+        "Action Planning vs Coping Planning",
+        "Predictable Barriers for Fallback Plans"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_exercise_systems_edd719_minimum_workout_star_f013c0",
+      "title": "How Small Should Your Minimum Workout Start Be?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "process"
+      ],
+      "titles": [
+        "Minimum Workout Start Key Stages",
+        "Starting vs. Performance Criteria",
+        "Minimum Starts by Exercise Type"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2",
+      "title": "How Hard Should a Good Goal Be?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Recalibrating Goal Difficulty Progression",
+        "Navigating Goal Difficulty Dimensions",
+        "Learning Goals for Unfamiliar Tasks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_effort_vs_strategy_d_484112",
+      "title": "Do You Need More Effort or a Better Strategy?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "orbital_rings",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Effort vs Strategy Difficulty",
+        "Signs of Strategy Difficulty",
+        "Skill Acquisition Progression Path"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_extreme_stretch_goal_61e684",
+      "title": "When Does a Stretch Goal Become Too Extreme?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Execution vs Knowledge Barriers",
+        "Stretch Goal Risk Assessment Criteria",
+        "Extreme Stretch Goal Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c",
+      "title": "When Should You Make a Hard Goal Easier?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Goal Recalibration Feedback Loop",
+        "Productive Misses vs. Calibration Errors",
+        "Four Reasons for Goal Shortfalls"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_goal_difficulty_curr_146b5c",
+      "title": "How Hard Should Your Goal Actually Be?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Calibration Cycle for Goal Setting",
+        "Goal Level vs. Goal Difficulty",
+        "Warning Signs of Miscalibration"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_goal_difficulty_5a5ec2_hard_goals_novice_pe_0a6b98",
+      "title": "Why Hard Goals Can Backfire for Beginners",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "tug_of_war",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Outcome vs Learning Goals",
+        "Signs of Premature Pressure",
+        "Skill Acquisition Progression"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57",
+      "title": "How Long Does a Habit Really Take?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "The Gradual Habit Formation Curve",
+        "The 21 Day Rule vs. Modern Research",
+        "Variable Time lines in Health Habits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_morning_evening_habi_29ebb6",
+      "title": "Does the Time of Day Change Habit Formation?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "tree_map",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Morning vs Evening Habit Formation",
+        "Mechanisms Influencing Habit Automaticity",
+        "Optimizing Habit Formation Strategy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_origin_of_21_day_myt_b64b3c",
+      "title": "Where Did the 21 Day Habit Rule Come From?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of the 21 Day Rule",
+        "Maltz Observations vs Modern Research",
+        "Habit Formation Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_stable_context_habit_0cba0b",
+      "title": "Do Habits Form Faster With the Same Cue?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Habit Automaticity",
+        "Context Stability vs Raw Repetition",
+        "Practical Cue Strategies for Habits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_what_66_days_really_28bf05",
+      "title": "Does Science Really Say Habits Take 66 Days?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "timeline_horizon",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Lally Study Habit Formation Process",
+        "Habit Formation Data Statistics",
+        "Habit Formation Interpretations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_formation_time_49cd57_wide_habit_timeline_dc4f84",
+      "title": "Why Habit Formation Timelines Vary So Widely",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Habit Formation Learning Curves",
+        "Habit Formation Time Variance",
+        "Determinants of Habit Strength"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e",
+      "title": "What to Change When a Habit Keeps Failing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "prism",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Habit Troubleshooting Experiment Cycle",
+        "Four Common Habit Failure Points",
+        "Strategies to Repair Habit Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_cue_failure_3c28f9",
+      "title": "Why Your Habit Cue Keeps Failing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Repairing Broken Habit Cues",
+        "Weak vs. Stable Habit Cues",
+        "Diagnostic Signs of Cue Failure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_recovery_after_e2887d",
+      "title": "How to Restart a Habit After You Miss",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Habit Recovery Diagnostic Workflow",
+        "Lapse vs. Systematic Disruption",
+        "Habit Formation Evidence Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_startup_fricti_94ef9c",
+      "title": "Why Starting the Habit Feels Harder Than It Should",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Activation Key Stages for Evening Workouts",
+        "Friction Comparison in Habit Formation",
+        "Types of Start Up Friction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_habit_timing_mismatc_de5a51",
+      "title": "Is Your Habit Scheduled at the Wrong Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Testing Timing for Habit Success",
+        "Aspirational vs. Stable Schedules",
+        "Signs of Timing Mismatch"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_habit_troubleshootin_85f11e_shrink_overlarge_hab_e91a83",
+      "title": "When Your Habit Is Simply Too Big",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Diagnostic Steps for Habit Collapse",
+        "Motivation vs. Task Demand Analysis",
+        "Properties of a Workable Habit Floor"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0",
+      "title": "Why If Then Plans Make Goals Easier to Start",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Constructing Effective If Then Plans",
+        "Goal vs. Implementation Intention",
+        "Types of If Then Plans"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_choosing_reliable_cu_d2d8ee",
+      "title": "Which Cues Make If Then Plans Easier to Follow?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Diagnostic Steps for Plan Failure",
+        "Weak vs. Strong Implementation Cues",
+        "Types of Effective Plan Cues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_if_then_plan_specifi_09d47d",
+      "title": "How Specific Should an If Then Plan Be?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Designing Useful Specificity Plans",
+        "Plan Quality vs. Precision Levels",
+        "Dimensions of High Quality Cues"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8",
+      "title": "Why Can If Then Plans Start Action So Quickly?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Path of Implementation Intentions",
+        "Ordinary Intentions vs If Then Plans",
+        "Mechanisms of Implementation Intentions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_strong_habit_limits_dfb19b",
+      "title": "Can If Then Plans Overcome a Strong Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Escalation of Habit Intervention Strategies",
+        "Weak vs Strong Habit Dynamics",
+        "Components of Effective Obstacle Planning"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_if_then_plans_58a9d0_weak_motivation_limi_497fdc",
+      "title": "When an If Then Plan Will Not Be Enough",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Execution vs. Motivation Bottlenecks",
+        "Signs of Weak Motivation Bottlenecks",
+        "Hierarchy of Goal Achievement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1",
+      "title": "Why Good Habits Need Some Reward Now",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "timeline_snake",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Hierarchy of Habit Reward Strategies",
+        "The Habit Formation Progression Path",
+        "Temptation Bundling vs. External Rewards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyable_habit_vers_2b4030",
+      "title": "Pick the Habit Version You Actually Enjoy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Four Steps to Habit Selection",
+        "Study Methods Usefulness Floor",
+        "Exercise Options for Aerobic Goals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_enjoyment_and_persis_e5d21b",
+      "title": "Why Enjoyment Often Keeps Good Habits Going",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Woolley and Fishbach Persistence Metrics",
+        "Immediate vs. Delayed Reward Dynamics",
+        "Designing Habits for Long Term Success"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_external_reward_pitf_42a96c",
+      "title": "When Habit Rewards Start Working Against You",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Stages of Reward Based Habit Formation",
+        "Starter Rewards vs. Maintenance Requirements",
+        "Risks of Poor Reward Design"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_reward_timing_habits_9ef38b",
+      "title": "Why Immediate Rewards Beat Delayed Treats",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Designing Habits with Immediate Rewards",
+        "Reward Timing vs. Reward Magnitude",
+        "Hierarchy of Habit Reward Design"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_immediate_rewards_b274b1_temptation_bundling_177a03",
+      "title": "Can Temptation Bundling Make Exercise Easier to Repeat?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Building a Durable Temptation Bundle",
+        "Gym Attendance Experiment Results",
+        "Hierarchy of Temptation Bundling Logic"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_learning_goals_d057c5",
+      "title": "When Learning Goals Beat Performance Targets",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Transitioning from Learning to Performance",
+        "Learning Goals vs Performance Goals",
+        "Four Pillars of Learning Goals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_learning_goals_d057c5_explanation_learning_ff65c1",
+      "title": "Can You Explain Why Your Method Works?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Self Explanation Practice Loop",
+        "Surface Repetition vs. Explanation Goals",
+        "Four Questions for Usable Knowledge"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_learning_goals_d057c5_measuring_learning_g_c07a6f",
+      "title": "When Does a Learning Metric Become Meaningless?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence of Learning Workflow",
+        "Distorted vs. Useful Learning Targets",
+        "The Anatomy of Learning Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_learning_goals_d057c5_strategy_discovery_g_2f1876",
+      "title": "What Should Beginners Try to Discover First?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Strategy Discovery Feedback Loop",
+        "Learning vs Performance Goals",
+        "Criteria for Useful Strategies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_learning_goals_d057c5_switch_to_performanc_3624de",
+      "title": "When Are You Ready for a Performance Goal?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Transitioning from Learning to Performance",
+        "Learning vs. Performance Goal Indicators",
+        "Signs of Readiness for Performance Goals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_learning_goals_d057c5_test_compare_learnin_559df1",
+      "title": "Can Two Small Tests Reveal a Better Method?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Test and Compare Learning Cycle",
+        "Methodology Comparison Criteria",
+        "Components of Test and Compare Goals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_meal_preparation_b97ced",
+      "title": "Make Better Meals Easier Before Hunger Hits",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Meal Preparation Strategy Workflow",
+        "Three Methods of Ingredient Prep",
+        "Meal Prep vs. Decision Fatigue"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_component_cooking_va_18d321",
+      "title": "Batch Components Without Eating the Same Meal",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Core Components of Component Cooking",
+        "Component Cooking vs. Batch Cooking",
+        "Food Safety for Prepared Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_emergency_freezer_me_97bd36",
+      "title": "The Freezer Meal That Saves a Bad Evening",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Emergency Freezer Meal Workflow",
+        "Homemade vs. Commercial Freezer Meals",
+        "Ideal Emergency Meal Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_ingredient_prep_week_edd377",
+      "title": "How Ingredient Prep Makes Dinner Easier",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FSA Food Safety Storage Key Stages",
+        "Ingredient Prep vs. Finished Meals",
+        "High Value Prep Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_minimum_prep_conveni_235c8f",
+      "title": "Healthy Eating Without Cooking Everything Yourself",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Minimum Prep Pantry Staples",
+        "Home Prepared vs. Convenience Food",
+        "The Minimum Prep Meal System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_meal_preparation_b97ced_pre_portioned_meals_69cc2b",
+      "title": "Does Pre Portioning Change What You Eat?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Pre Portioning Decision Logic",
+        "Portion Control Evidence Hierarchy",
+        "UC San Diego Meal Trial Results"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419",
+      "title": "Track Less, but Track What Actually Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NICE Behavior Change Monitoring Key Stages",
+        "Behavior vs Outcome Metric Comparison",
+        "Minimalist Dashboard Decision Logic"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_behaviour_before_out_b06df3",
+      "title": "Track the Behaviour Before Judging the Outcome",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Diagnostic Logic for Plan Adjustment",
+        "Interpreting Stalled Progress Outcomes",
+        "Boring Metrics for Behavioural Tracking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_measure_current_unce_e58dd1",
+      "title": "Measure the Question That Could Change Your Plan",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Designing Decision Relevant Metrics",
+        "Precision vs Decision Value",
+        "Sequential Bottleneck Diagnostics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_retire_finished_metr_b2caaa",
+      "title": "When a Useful Metric Has Outlived Its Purpose",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Metric Lifecycle for Personal Informatics",
+        "Metric Management Strategies",
+        "Signals for Metric Retirement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_simplified_food_trac_37732c",
+      "title": "Can Simpler Tracking Work as Well as Detailed Logs?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "grid_stats",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Detailed vs. Abbre via ted Weight Loss Diaries",
+        "PATH Study Weight Loss Metrics",
+        "Decision Rules for Self Monitoring"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.182,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_minimal_metrics_e2c419_study_sessions_to_re_e7a6c5",
+      "title": "When Study Time Stops Being the Right Metric",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Minimal Delayed Recall Protocol",
+        "Adherence vs Outcome Metrics",
+        "Hierarchy of Learning Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_missed_days_68e864",
+      "title": "Does Missing One Day Ruin a Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Recovery Protocol After Habit Lapses",
+        "Streak vs. Habit Formation Evidence",
+        "Factors Influencing Habit Automaticity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_missed_days_68e864_longer_habit_breaks_be56de",
+      "title": "When Does a Habit Break Become a Problem?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms of Habit Discontinuity",
+        "Isolated Lapse vs. Pattern Shift",
+        "Habit Formation Study Metrics"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_missed_days_68e864_one_missed_day_habit_6826e7",
+      "title": "Does One Missed Day Really Break a Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Lally 12 Week Habit Formation Process",
+        "Behavior vs. Habit Strength",
+        "Evidence on Habit Disruption"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_missed_days_68e864_repeated_misses_rout_cc0d23",
+      "title": "Repeatedly Missing the Same Habit? Change the Setup",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Redesigning Habits Based on Recurring Misses",
+        "Four Features for Habit Stress Testing",
+        "Interpreting Habitual Misses: Data vs. Failure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_missed_days_68e864_stable_cues_after_la_9d56e2",
+      "title": "After a Miss, Keep the Habit Cue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Restarting Habits via Cue Recovery",
+        "Context Stability vs. Habit Automaticity",
+        "Types of Habitual Cues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_missed_days_68e864_streaks_vs_habit_pro_66fffa",
+      "title": "Your Streak Reset, but Did Your Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "venn"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Streak Tracking vs. Habit Formation",
+        "The Psychology of Streak Breaks",
+        "Alternative Measures of Consistency"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9",
+      "title": "Tracking Is Better When It Changes Your Next Move",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "The Feedback Loop for Behavior Change",
+        "Measurement vs. Interpretation Analysis",
+        "Physical Activity Monitor Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_actionable_feedback_19ee3f",
+      "title": "When Tracking Tells You What to Do Next",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Actionable Feedback Loop Mechanism",
+        "Data vs Actionable Feedback",
+        "Reference Points for Comparison"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_activity_feedback_ev_b33052",
+      "title": "How Much Does Feedback Add to Activity Tracking?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Feedback Loop for Physical Activity",
+        "Feedback vs. Self Monitoring Comparison",
+        "Feedback Delivery Modalities in Trials"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_human_vs_algorithm_f_9b4c31",
+      "title": "Do Humans Give Better Feedback Than Algorithms?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Weight Loss Trial Progression (2006)",
+        "Human vs AI Diabetes Prevention",
+        "Feedback System Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_just_in_time_feedbac_1f67d0",
+      "title": "Does Feedback Work Better Before the Moment Passes?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Heart Steps Micro Randomised Trial Flow",
+        "Feedback Types in Behavioral Tracking",
+        "JITAI Design Principles for Success"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_monitoring_feedback_0281a9_more_feedback_not_be_769690",
+      "title": "Why More Feedback Is Not Always Better",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Feedback Logic for Behavior Change",
+        "Monitoring vs. Outcome Success",
+        "Barriers to Feedback Efficacy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_motivation_limits_12bd47",
+      "title": "Why Motivation Alone Rarely Carries a Habit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Transitioning from Intention to Habit",
+        "Motivation vs. Reliable Execution",
+        "Evidence of the Intention Behavior Gap"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_motivation_limits_12bd47_autonomous_motivatio_413f6e",
+      "title": "Does the Type of Motivation Matter More?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Hierarchy of Self Determination Theory Motivation",
+        "Autonomous vs Controlled Motivation Outcomes",
+        "Exercise Persistence and Motivation Pathway"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_motivation_limits_12bd47_daily_motivation_swi_1041b4",
+      "title": "Why Motivation Feels Different From Day to Day",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Fluctuating Motivation",
+        "Motivation vs. Fatigue Factors",
+        "Fragile Planning Strategies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_motivation_limits_12bd47_exercise_intention_g_11d9c4",
+      "title": "Why Exercise Intentions So Often Stay Intentions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bridging the Intention Action Gap",
+        "Momentary Study Findings Comparison",
+        "Factors Influencing Exercise Enactment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_motivation_limits_12bd47_habit_automaticity_l_467fd9",
+      "title": "When Habit Advice Promises Too Much",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Habit Formation",
+        "Context Stability vs. Habit Strength",
+        "Complexity in Habitual Behavior"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_motivation_limits_12bd47_stable_context_habit_664509",
+      "title": "Can a Stable Context Make Habits Easier?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Habit Automaticity",
+        "Context Stability vs. Varied Contexts",
+        "Recognizable Habit Context Cues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_no_magic_formula_7b68b2",
+      "title": "Why One Perfect Self Improvement Formula Does Not Exist",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Personalized Behavior Experiment Key Stages",
+        "Generic vs. Adaptive Interventions",
+        "Evidence Based Behavior Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_no_magic_formula_7b68b2_adaptive_reminder_ti_c43ce8",
+      "title": "When Should a Behaviour Reminder Actually Arrive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hierarchy of Adaptive Reminder Policies",
+        "Fixed vs. Adaptive Reminders",
+        "JITAI Receptivity Decision Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_no_magic_formula_7b68b2_dynamic_personalizat_eae25c",
+      "title": "Personalization Works Better When It Can Change",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "JITAI Decision Logic Flow",
+        "Static vs. Adaptive Personalization",
+        "JITAI Signals for Support"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_no_magic_formula_7b68b2_feedback_fit_behavio_5facec",
+      "title": "When Does Feedback Help Instead of Distract?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Feedback Processing Chain for Action",
+        "Monitoring vs. Feedback Comparison",
+        "Feedback Efficacy Research Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_no_magic_formula_7b68b2_habit_timing_variati_3eda2a",
+      "title": "Why There Is No Universal Habit Timeline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lally Study Habit Formation Curve",
+        "Frequency vs. Automaticity Distinction",
+        "Factors Influencing Habit Speed"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_no_magic_formula_7b68b2_need_vs_receptivity_2a9489",
+      "title": "What If the Best Moment to Help Is Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Need vs. Receptivity in JITAIs",
+        "Design Principles for JITAI Systems",
+        "Factors Influencing Receptivity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba",
+      "title": "Should You Track Outcomes or Daily Actions?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hierarchy of Goal Achievement",
+        "Outcome vs. Behavior Metrics",
+        "Diagnostic Logic for Progress"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_goal_metric_fixation_ca2ec2",
+      "title": "When Chasing the Number Starts Hurting the Goal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms of Metric Gaming",
+        "Proxy vs. Underlying Purpose",
+        "Warning Signs of Metric Fixation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_learning_before_targ_468791",
+      "title": "When Should You Learn Before Chasing a Target?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Skill Acquisition Goal Key Stages",
+        "Learning vs Performance Goals",
+        "Specific Learning Goal Examples"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_noisy_outcome_metric_3660ac",
+      "title": "When Outcome Numbers Give You the Wrong Signal",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hidden Drivers of Body Weight",
+        "Fast vs Slow Feedback Loops",
+        "External Noise in Race Performance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_process_goals_execut_cf86d3",
+      "title": "Why Process Goals Help When It Is Time to Perform",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "grid_stats",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Goal Hierarchy in Sport Psychology",
+        "Performance Effects of Goal Types",
+        "Process Goal Selection Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_outcomes_vs_behaviou_97c8ba_written_progress_log_2cf0e3",
+      "title": "Does Writing Down Progress Make Goals Work Better?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Harkin Meta Analysis Progress Workflow",
+        "Behavior vs Outcome Monitoring Effects",
+        "Lean Progress Log Best Practices"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9",
+      "title": "Why Movement Belongs in a Broader Improvement Plan",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "geode",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Building Repeatable Movement Habits",
+        "Capacity Benefits of WHO Activity",
+        "Movement Maintenance Mechanics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_acute_exercise_cogni_e54908",
+      "title": "What Happens to Your Thinking After Exercise?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cognitive Transition via Movement",
+        "Exercise and Cognitive Accuracy",
+        "Categories of Post Exercise Improvement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_sleep_capac_732c85",
+      "title": "Can Exercise Make Better Sleep Easier to Sustain?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Pathway from Movement to Capacity",
+        "Exercise and Sleep Research Realities",
+        "Sustainable Sleep Support Strategies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_exercise_volume_trad_abd7e4",
+      "title": "When Does More Exercise Stop Helping Your Goals?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Path to Training Maladaptation",
+        "Health vs. Performance Objectives",
+        "Warning Signs of Excessive Load"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_fallback_workouts_a6785b",
+      "title": "What Should Your Workout Become on a Bad Day?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Designing a Fallback Workout Strategy",
+        "Maintenance vs Progression Training",
+        "Evidence for Short Exercise Bouts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_physical_activity_ca_d0bfb9_start_below_guidelin_595302",
+      "title": "You Do Not Need to Start at 150 Minutes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Graded Exercise Progression Strategy",
+        "Step Count Health Outcomes",
+        "Exercise Safety and Clearance"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_precommitment_2d35ae",
+      "title": "Make the Decision Before Temptation Arrives",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Precommitment Strategy",
+        "Implementation Intentions vs Precommitment",
+        "Matching Precommitment to Failure Modes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_precommitment_2d35ae_commitment_savings_a_d50665",
+      "title": "Does Making Savings Harder to Reach Work?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The SEED Account Savings Mechanism",
+        "Hard vs Soft Commitment Trade offs",
+        "Philippines SEED Trial Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_precommitment_2d35ae_digital_temptation_b_50d20b",
+      "title": "When Blocking Distractions Beats Resisting Them",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Optimizing Digital Precommitment Strategy",
+        "Blocking vs. Self Control Mechanisms",
+        "Evidence from the 2023 You Tube Experiment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_precommitment_2d35ae_money_stake_commitme_9849f1",
+      "title": "When Is Losing Money a Useful Commitment?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Design of a Financial Commitment Contract",
+        "Soft vs Hard Commitment Devices",
+        "Safeguards for Effective Financial Contracts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_precommitment_2d35ae_real_vs_self_deadlin_bdaf2a",
+      "title": "Do Self Imposed Deadlines Really Stop Procrastination?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Spectrum of Precommitment Strength",
+        "Deadline Research Evolution 2002 2026",
+        "Designing Effective Delivery Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_precommitment_2d35ae_right_sized_precommi_548fe7",
+      "title": "Can You Precommit Too Much or Too Little?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Calibrating Commitment Strength Steps",
+        "Undercommitment vs Overcommitment Risks",
+        "Examples of Weak Commitments"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_progress_tracking_247b57",
+      "title": "Why Tracking What You Did Changes Results",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Progress Monitoring Feedback Loop",
+        "Harkin Meta Analysis Monitoring Effects",
+        "The Useful Minimum Tracking Design"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_progress_tracking_247b57_missed_session_patte_2fd6eb",
+      "title": "What Repeated Misses Can Tell You About Your Plan",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Diagnostic Progress Tracking Loop",
+        "Motivation vs. Opportunity Analysis",
+        "Common Plan Design Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_progress_tracking_247b57_objective_sedentary_fe036f",
+      "title": "Do Objective Trackers Help People Sit Less?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "tree_map",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Objective vs Subjective Sitting Tracking",
+        "Hierarchy of Sedentary Behavior Interventions",
+        "Durability of Sedentary Behavior Reductions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_progress_tracking_247b57_progress_avoidance_o_c99ed0",
+      "title": "Why We Avoid Checking Progress When Behind",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Ostrich Problem Feedback Loop",
+        "Active Monitoring vs. Passive Information",
+        "Strategies for Tolerable Tracking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_progress_tracking_247b57_progress_reporting_a_0fc67c",
+      "title": "Does Reporting Your Progress Improve Follow Through?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Harkin Meta Analysis Monitoring Effects",
+        "Practical Accountability Check in Steps",
+        "Mechanisms of Reported Progress"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_progress_tracking_247b57_progress_tracking_ef_6cf48d",
+      "title": "How Much Does Progress Tracking Actually Help?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "grid_stats",
+        "comparison_columns"
+      ],
+      "roles": [
+        "other",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Harkin Meta Analysis Effect Sizes",
+        "Factors Influencing Tracking Success",
+        "Hierarchy of Tracking Impact"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_reduce_friction_cd41be",
+      "title": "Make Good Habits Easier Before You Need Them",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Habit Formation Causal Chain",
+        "Productive Effort vs. Access Effort",
+        "Types of Behavioral Friction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_reduce_friction_cd41be_friction_diminishing_b6a2ac",
+      "title": "When Making a Habit Easier Stops Helping",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Friction Reduction Stopping Rule",
+        "Friction vs. Capability Barriers",
+        "Hierarchy of Habit Support"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_reduce_friction_cd41be_friction_unwanted_ha_0a8e6f",
+      "title": "Make Bad Habits Harder to Reach",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "The Mechanism of Behavioral Friction",
+        "Proximity Effects in Workplace Snacks",
+        "Hierarchy of Behavioral Friction Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_reduce_friction_cd41be_gym_distance_adheren_f295ff",
+      "title": "Is Your Gym Too Far Away to Stick With?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "structure_taxonomy",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Barriers to Exercise Adherence",
+        "Leeds Let's Get Active Data",
+        "Optimizing Exercise Route Fit"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_reduce_friction_cd41be_prepare_habit_enviro_aced7e",
+      "title": "Prepare Now So Good Habits Start Easier",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Steps to Minimize Access Effort",
+        "Access Effort vs. Productive Effort",
+        "Preparation Strategies for Habit Success"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_reduce_friction_cd41be_reduce_habit_decisio_e6cf17",
+      "title": "Stop Re Deciding Habits You Already Planned",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Implementation Intentions for Habit Building",
+        "Decision Fatigue vs. Choice Friction",
+        "Preselected Defaults for Routine Building"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_scaling_habits_a1298a",
+      "title": "When Should You Make a Habit More Ambitious?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Scaling Habits via Graded Tasks",
+        "Stable Habit vs. Simple Streak",
+        "Dimensions of Habit Expansion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_scaling_habits_a1298a_graded_habit_increas_3c75ff",
+      "title": "How Big Should Your Next Habit Increase Be?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Graded Task Progression Workflow",
+        "Graded Tasks vs. Sudden Leaps",
+        "Behavioral Shaping Principles in Practice"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_consis_eae060",
+      "title": "What to Do When a Bigger Habit Stops Sticking",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Habit Recovery Key Stages",
+        "Lapse vs Relapse Dynamics",
+        "Warning Signs of Over Scaling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_scaling_habits_a1298a_habit_scaling_readin_020764",
+      "title": "When Is a Habit Ready to Grow?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Signs of Habitual Instigation Readiness",
+        "Habitual Instigation vs. Execution",
+        "Stress Tests for Habit Stability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_scaling_habits_a1298a_one_variable_habit_s_69d716",
+      "title": "Change One Part of a Habit at a Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Testing Habit Sustainability Steps",
+        "Habit Scaling Dimensions Comparison",
+        "Habit Scaling Failure Diagnostics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_scaling_habits_a1298a_stable_cues_when_sca_0116c2",
+      "title": "Why Scaling Works Better When Cues Stay Stable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Scaling Habits via Stable Cues",
+        "Scaling vs. Habit Disruption",
+        "Contextual Cues for Habit Formation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_attention_c3b951",
+      "title": "What One Short Night Does to Your Attention",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Sleep Restriction Cognitive Degradation Path",
+        "Sleep Restriction Cognitive Misconceptions",
+        "Risks to Self Improvement Plans"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_attention_c3b951_circadian_attention_0d7540",
+      "title": "When Sleep Loss Hits Attention Hardest",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Morning Vigilance Deterioration Process",
+        "Sleep Pressure vs Circadian Alerting",
+        "Risk Management for Sleep Loss"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_attention_c3b951_fragmented_sleep_att_d204e7",
+      "title": "Interrupted Sleep Can Hurt Attention Too",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sleep Fragmentation Study Metrics",
+        "Fragmentation vs. Sleep Restriction",
+        "Components of Sleep Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_attention_c3b951_one_night_attention_6998e5",
+      "title": "What One Short Night Does to Attention",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "PVT Testing Protocol for Sleep Research",
+        "Cognitive Effects of One Short Night",
+        "Sleep Restriction Statistical Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_attention_c3b951_repeated_sleep_vigil_95a45c",
+      "title": "Why Attention Gets Worse Across Short Nights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Cumulative Vigilance Decline Time line",
+        "Sleep Dose Performance Comparison",
+        "Mechanisms of Wake State Instability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_attention_c3b951_subjective_adaptatio_6d05c7",
+      "title": "Feeling Used to Less Sleep Can Mislead You",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Cumulative Effects of Sleep Restriction",
+        "Subjective Alertness vs Objective Vigilance",
+        "Self Assessment Safety Check Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_foundation_55d7b8",
+      "title": "Protect Sleep Before Adding More Productivity Tricks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Designing Sleep First Improvement Plans",
+        "Subjective vs Objective Sleep Impairment",
+        "Cognitive Vulnerabilities to Sleep Loss"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_foundation_55d7b8_repeated_short_sleep_0eef69",
+      "title": "Why Repeated Short Nights Quietly Erode Attention",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Accumulation of Sleep Debt Effects",
+        "Subjective Feeling vs Objective Performance",
+        "Sleep Restriction Dose Response Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_attention_laps_c5564e",
+      "title": "Why Tired Brains Fail in Brief, Costly Lapses",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Neural Mechanisms of Attentional Lapses",
+        "PVT Performance Under Sleep Loss",
+        "Types of Attentional Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_effort_allocat_b578bb",
+      "title": "Why Hard Tasks Feel Harder After Too Little Sleep",
+      "infographic_count": 3,
+      "templates": [
+        "earth_core",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Mechanisms of Sleep Deprived Effort",
+        "Cognitive vs Physical Effort Effects",
+        "Optimizing Self Improvement Plans"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleep_first_planning_b63b3d",
+      "title": "Should Sleep Come Before Another Productivity Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Designing Sleep First Improvement Plans",
+        "Sleep Sacrifice vs. Cognitive Cost",
+        "NHS and AASM Sleep Standards"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_foundation_55d7b8_sleepiness_performan_798cd0",
+      "title": "Can You Feel Fine and Still Be Sleep Deprived?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "chronology"
+      ],
+      "titles": [
+        "Subjective vs. Objective Sleep Metrics",
+        "Van Dongen 14 Day Experiment Key Stages",
+        "Factors Influencing Vigilance Mismatch"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_mood_df2119",
+      "title": "How Poor Sleep Changes the Mood Behind Your Habits",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "radial_cycle"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "process"
+      ],
+      "titles": [
+        "Asymmetric Effects of Sleep Loss",
+        "Habit Design for Sleep Depletion",
+        "Mechanisms of Sleep Induced Impairment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_mood_df2119_short_sleep_daily_st_a3be93",
+      "title": "Why Bad Sleep Makes Setbacks Hit Harder",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Mechanics of Sleep Depleted Stress",
+        "Sleep Impact on Stressor Reactivity",
+        "Strategies for Habit Protection"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_loss_effort_co_adcb04",
+      "title": "Why Tired Tasks Feel Harder to Start",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanism of Sleep Induced Effort Discounting",
+        "Cognitive vs Physical Effort Costs",
+        "Strategies for Tired Day Habits"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_positive_affec_76c7f8",
+      "title": "The Mood Loss You May Notice Least",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Components of Positive Affect Loss",
+        "Sleep Continuity vs. Total Duration",
+        "Sleep Loss and Motivation Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_restriction_me_1ca79a",
+      "title": "Why Tiredness Can Hit Mental Habits First",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Cognitive vs Physical Effort Under Sleep Loss",
+        "Lowering Friction for Tired Day Habits",
+        "Cumulative Effects of Sleep Restriction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_sleep_mood_df2119_sleep_self_control_w_65ca2a",
+      "title": "Is Poor Sleep Really a Willpower Problem?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Cognitive Cascades of Sleep Loss",
+        "Effort Cost vs Reward Value",
+        "Sleep Induced Behavioral Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6",
+      "title": "Start Small Enough That the Habit Survives",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Designing a Sustainable Habit Floor",
+        "Ideal Day Goals vs. Habit Floors",
+        "Examples of Sustainable Minimums"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_automatic_habit_star_f80818",
+      "title": "Automate the Start, Not the Whole Routine",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanism of Habitual Instigation",
+        "Instigation vs. Execution Dynamics",
+        "Practical Habit Start Design Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_flexible_habit_cues_760ae5",
+      "title": "Choose Habit Cues Your Real Schedule Repeats",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Testing Durable Habit Anchors",
+        "Clock Cues vs Routine Anchors",
+        "Stable Contexts for Irregular Schedules"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_habit_floor_757e65",
+      "title": "How Small Should Your Habit Floor Be?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Designing a Functional Habit Floor",
+        "Floor vs. Symbolic Gesture",
+        "Hierarchy of Habit Performance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144",
+      "title": "When a Tiny Habit Becomes Too Tiny",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Establishing a Meaningful Habit Floor",
+        "Instigation vs. Execution Dynamics",
+        "WHO Physical Activity Dose Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_small_sustainable_ha_79cbc6_missed_habit_days_57525c",
+      "title": "What to Do After Missing a Habit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Recovery Protocol After a Habit Miss",
+        "Streak Tracking vs. Habit Strength",
+        "Lally Study Findings on Automaticity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_social_accountabilit_aadcd8",
+      "title": "Does Telling Someone Else Help You Follow Through?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Steps for Effective Social Accountability",
+        "Announcing Goals vs Reporting Progress",
+        "Supportive Accountability Design Choices"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_social_accountabilit_aadcd8_accountability_press_46445a",
+      "title": "When Does Accountability Become Too Much Pressure?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Supportive Accountability Design Process",
+        "Outcome vs Process Accountability",
+        "Warning Signs of Reporting Distortion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_social_accountabilit_aadcd8_goals_vs_progress_re_348921",
+      "title": "Should You Tell People Your Goals or Your Progress?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Aspiration vs. Evidence Based Accountability",
+        "Transitioning to Evidence Based Check ins",
+        "Factors Influencing Goal Disclosure Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_social_accountabilit_aadcd8_reporting_completed_e3d3d1",
+      "title": "What Should You Actually Report for Accountability?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Steps for Effective Behaviour Reporting",
+        "Vague vs. Behavioural Accountability",
+        "Components of a Workable Measure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_social_accountabilit_aadcd8_social_visibility_pr_b99e32",
+      "title": "Why Does Someone Else Seeing Progress Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Feedback Loop for Goal Attainment",
+        "Meta Analysis Effect Sizes by Visibility",
+        "Supportive Accountability Mechanisms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_social_accountabilit_aadcd8_supportive_accountab_9f93b0",
+      "title": "When Does an Accountability Partner Actually Help?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Establishing Supportive Accountability Agreements",
+        "Autonomy Support vs. Controlling Styles",
+        "Traits of a Legitimate Accountability Partner"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_spending_systems_60275f",
+      "title": "Add Friction Before an Impulse Purchase",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Designing a Review Step Before Buying",
+        "Payment Transparency and Spending Behavior",
+        "Friction Strategies for Impulse Control"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_spending_systems_60275f_impulse_purchase_wai_3499cb",
+      "title": "When Does Waiting Actually Stop an Impulse Buy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Next Day Review Rule Procedure",
+        "Delay Types and Shopping Impact",
+        "Factors Influencing Impulse Urges"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_spending_systems_60275f_real_time_spending_f_f99cc6",
+      "title": "Why Spending Feedback Works Better Before Checkout",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Personal Spending Control Key Stages",
+        "Delayed vs Just in Time Feedback",
+        "Feedback Types for Impulse Control"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_spending_systems_60275f_saved_cards_checkout_9a3129",
+      "title": "Can Deleting Saved Cards Slow Impulse Spending?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Impulse Purchase Decision Path",
+        "One Click vs. Manual Checkout Effects",
+        "Strategies for Selective Friction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_spending_systems_60275f_short_shopping_delay_4cce4f",
+      "title": "Why a Ten Minute Shopping Pause May Not Work",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Failure of Unguided Delays",
+        "Weak vs. Strong Friction Tactics",
+        "Factors Driving Impulse Buying"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_spending_systems_60275f_single_category_impu_608136",
+      "title": "Should You Budget Only Your Worst Spending Category?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Single Category Budgeting Review Process",
+        "Budgeting Strategy Comparison Analysis",
+        "Diagnosing Repeated Budget Overruns"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_stable_contexts_b82f93",
+      "title": "Why Doing It in the Same Context Helps",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Habit Formation Mechanism",
+        "Types of Repeatable Context Cues",
+        "Context Stability vs. Brittle Uniformity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_stable_contexts_b82f93_existing_routine_anc_4c1156",
+      "title": "Why Existing Routines Make Powerful Habit Anchors",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Flossing Habit Formation Key Stages",
+        "Routine vs Time Based Cues",
+        "Criteria for Effective Anchors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_stable_contexts_b82f93_habit_context_variat_acc33c",
+      "title": "How Similar Does a Habit Context Need to Be?",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Contextual Cues in Habit Formation",
+        "Stability vs. Portability Trade offs",
+        "Detecting Habit Context Failure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_stable_contexts_b82f93_missed_habit_repetit_14a2da",
+      "title": "Does Missing One Day Break a New Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "grid_stats",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Habit Formation: Myth vs. Reality",
+        "Habit Formation Data Metrics",
+        "Resuming Habits After a Lapse"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_stable_contexts_b82f93_routine_vs_time_cues_8880c4",
+      "title": "Should a Habit Follow a Routine or a Clock?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Routine vs. Clock Cue Comparison",
+        "Keller Trial Habit Formation Process",
+        "Selecting Reliable Habit Anchors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_stable_contexts_b82f93_workable_habit_cues_d38303",
+      "title": "Choose Habit Cues That Leave Room to Act",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Testing a Workable Habit Cue",
+        "Cue Type Performance Comparison",
+        "Barriers to Usable Repetitions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_study_systems_0ce3b8",
+      "title": "Make Studying the Default Before Distraction Starts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Study Before Social Media Routine",
+        "Smartphone Presence and Cognitive Load",
+        "System Design Failure Patterns"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_first_study_action_ca55f2",
+      "title": "Why the First Study Action Should Be Tiny",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Preparing the Study Cue Routine",
+        "Vague vs. Concrete Study Actions",
+        "Examples of Mechanical First Actions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_notifications_learni_b80b53",
+      "title": "Can Notifications Hurt Learning Without You Noticing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pre Study Notification Management Routine",
+        "Cognitive Costs of Push Notifications",
+        "Experimental Findings on Learning Interruption"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_phone_distance_study_eb5389",
+      "title": "When Moving Your Phone Actually Helps Studying",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Smartphone Friction and Study Flow",
+        "Cognitive Impact of Phone Presence",
+        "Phone Distance Precommitment Tiers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_social_media_substit_56dcad",
+      "title": "What Happens When Social Media Limits Just Shift Distraction?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "University of Groningen Study Design",
+        "App Limits vs. Distraction Reduction",
+        "Substitution Channels in UK Pilots"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_study_systems_0ce3b8_stable_study_context_401180",
+      "title": "Does Studying in the Same Context Build Momentum?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanism of Habit Automaticity",
+        "Stable vs Variable Contexts",
+        "Properties of a Useful Study Context"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e",
+      "title": "Pair Something Useful With Something You Enjoy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Temptation Bundling",
+        "Bundling vs. Delayed Rewards",
+        "Gym Study Experimental Results"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e_immediate_enjoyment_6384d5",
+      "title": "Why Enjoyment Matters More Than Distant Rewards",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "timeline_snake",
+        "venn"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Distant Benefits vs Immediate Rewards",
+        "Temptation Bundling Implementation Steps",
+        "Criteria for Complementary Consumption"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e_real_world_gym_effec_bb1327",
+      "title": "How Much Does Temptation Bundling Actually Help?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_snake",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "University vs. Commercial Gym Study",
+        "Temptation Bundling Field Trial Steps",
+        "Mechanisms of the Field Trial"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e_restricting_temptati_556478",
+      "title": "Should You Lock Your Temptation to the Habit?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "grid_stats",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Implementing a Practical Temptation Bundle",
+        "Gym Experiment Attendance Outcomes",
+        "Mechanisms of Temptation Bundling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e_reward_context_cues_fef9c7",
+      "title": "Can the Temptation Teach the Strategy Itself?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Step Up Study Gym Attendance Gains",
+        "Contextual Inference vs. Explicit Teaching",
+        "Properties of Bundle Ready Temptations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_temptation_bundling_78b62e_temptation_bundle_ro_5f48e9",
+      "title": "Why a Break Can Undo Temptation Bundling",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Gym Attendance Trends During Thanksgiving Study",
+        "Temptation Bundling Design Trade offs",
+        "Designing Resilient Temptation Bundles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_willpower_myths_6f400f",
+      "title": "Do You Really Need More Willpower?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Process Model of Self Control",
+        "Ego Depletion Scientific Debate",
+        "Systemic Self Control Adjustments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_willpower_myths_6f400f_behavioral_friction_90e845",
+      "title": "How a Few Extra Steps Can Change Behavior",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Designing Friction for Habit Change",
+        "Google Office Snack Proximity Study",
+        "Types of Behavioral Friction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_willpower_myths_6f400f_early_self_control_a17467",
+      "title": "Why Self Control Often Works Best Before Temptation",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "list_vertical",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The Process Model of Impulse Development",
+        "Antecedent Focused Self Control Strategies",
+        "Hierarchy of Self Control Interventions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_willpower_myths_6f400f_ego_depletion_limits_b4faa7",
+      "title": "Does Willpower Really Run Out Like a Tank?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Ego Depletion Research",
+        "Willpower Resource Models Comparison",
+        "Evidence from Preregistered Replications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_willpower_myths_6f400f_habit_formation_time_789385",
+      "title": "How Long Does a Habit Really Take?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Evolution of Habit Automaticity",
+        "Habit Formation vs. Habituation",
+        "Factors Influencing Habit Speed"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_willpower_myths_6f400f_temptation_exposure_39be2a",
+      "title": "Self Control Depends on What You Keep Encountering",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Duckworth's Strategic Self Control Process",
+        "Resistance vs. Exposure Dynamics",
+        "Factors of Temptation Salience"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_work_preparation_bd6e63",
+      "title": "Set Up Tomorrow's Work Before You Stop Today",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "tug_of_war",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Five Steps to Brief Shutdown",
+        "Weak vs Strong Preparation",
+        "Domain Specific Preparation Examples"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_work_preparation_bd6e63_end_day_setup_creep_2c90ae",
+      "title": "When Tomorrow Prep Becomes Today's Procrastination",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Minimum Effective Preparation Key Stages",
+        "Productive Setup vs. Setup Creep",
+        "Diagnostic Rules for Shutdown"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_work_preparation_bd6e63_interruption_resilie_d34b95",
+      "title": "When Tomorrow's Morning Refuses to Follow the Plan",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Designing a Resilient Restart Plan",
+        "Brittle vs. Contingent Planning Models",
+        "Task State Recovery Cues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_work_preparation_bd6e63_restart_plan_mental_891b8f",
+      "title": "Can a Restart Plan Help You Switch Off?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Creating a Restartable Task Note",
+        "Impact of Unfinished Work on Sleep",
+        "Research Findings on Psychological Detachment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_work_preparation_bd6e63_visible_next_action_c256aa",
+      "title": "What Should Tomorrow's First Action Look Like?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Creating Effective Restart Notes",
+        "Project Description vs. Restart Instruction",
+        "Knowledge Work Restart Examples"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_work_preparation_bd6e63_workspace_memory_cue_f60f1a",
+      "title": "Can Your Workspace Remember Tomorrow's Task?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Designing Workspace Intention Offloading",
+        "Focal vs Non Focal Workspace Cues",
+        "Types of Intention Offloading Tools"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_written_progress_rec_ba20d1",
+      "title": "Write It Down Instead of Trusting Memory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Optimizing Personal Progress Tracking",
+        "Memory vs. Physical Records",
+        "Rules for Effective Tracking"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_written_progress_rec_ba20d1_binary_habit_trackin_da7428",
+      "title": "When a Simple Tick Box Is Enough",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Establishing Binary Habit Trackers",
+        "Binary vs. Richer Tracking Systems",
+        "When Richer Records Are Justified"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_written_progress_rec_ba20d1_measurement_reactivi_2cc9ac",
+      "title": "Can Tracking a Habit Change the Habit Itself?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Measurement Reactivity",
+        "Research vs. Personal Tracking Utility",
+        "Pedometer Study Reactivity Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_written_progress_rec_ba20d1_missed_session_patte_2fd6eb",
+      "title": "What Your Missed Sessions Can Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Diagnosing Routine Failures via Omissions",
+        "Context Stability vs. Habit Automaticity",
+        "Variables Influencing Routine Omissions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_written_progress_rec_ba20d1_near_event_logging_e728c5",
+      "title": "Should You Log Habits Right After They Happen?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Optimal Habit Logging Windows",
+        "Logging vs. Reconstruction Accuracy",
+        "EMA Research and Compliance Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "self_improvement_tha_c01280_written_progress_rec_ba20d1_paper_vs_digital_tra_0db3b8",
+      "title": "Paper or App: Which Habit Record Will Last?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Paper vs Digital Tracking Evidence",
+        "Selecting a Sustainable Tracking System",
+        "Factors Influencing Recording Friction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}
