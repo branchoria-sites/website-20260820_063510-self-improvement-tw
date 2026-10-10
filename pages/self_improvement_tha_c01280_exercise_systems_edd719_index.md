@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 logical_id: self-improvement-tha-c01280-exercise-systems-edd719:index
 identity_source: generated_parent_logical_id
 title: Exercise Sub-Topic Index

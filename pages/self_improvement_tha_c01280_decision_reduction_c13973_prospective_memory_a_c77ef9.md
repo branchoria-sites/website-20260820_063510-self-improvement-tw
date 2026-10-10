@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_decision_reduction_c13973_prospective_memory_a_c77ef9
 parent_basename: self_improvement_tha_c01280_decision_reduction_c13973

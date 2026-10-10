@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_adaptive_improvement_465fc2_repeated_failure_win_3f08b6
 parent_basename: self_improvement_tha_c01280_adaptive_improvement_465fc2

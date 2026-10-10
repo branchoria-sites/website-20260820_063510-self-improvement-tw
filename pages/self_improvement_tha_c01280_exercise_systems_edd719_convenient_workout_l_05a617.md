@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_exercise_systems_edd719_convenient_workout_l_05a617
 parent_basename: self_improvement_tha_c01280_exercise_systems_edd719

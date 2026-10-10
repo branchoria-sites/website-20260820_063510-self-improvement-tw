@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 logical_id: self-improvement-tha-c01280-willpower-myths-6f400f:index
 identity_source: generated_parent_logical_id
 title: The Idea That Inconsistent People Simply Need “more Willpower” Sub-Topic Index

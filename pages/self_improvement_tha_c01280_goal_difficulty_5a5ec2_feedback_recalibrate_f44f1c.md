@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_goal_difficulty_5a5ec2_feedback_recalibrate_f44f1c
 parent_basename: self_improvement_tha_c01280_goal_difficulty_5a5ec2

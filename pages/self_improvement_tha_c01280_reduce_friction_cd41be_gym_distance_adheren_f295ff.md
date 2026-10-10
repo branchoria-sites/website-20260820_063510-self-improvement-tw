@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_reduce_friction_cd41be_gym_distance_adheren_f295ff
 parent_basename: self_improvement_tha_c01280_reduce_friction_cd41be

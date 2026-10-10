@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_environment_design_133edb_impulse_buying_frict_b476ff
 parent_basename: self_improvement_tha_c01280_environment_design_133edb

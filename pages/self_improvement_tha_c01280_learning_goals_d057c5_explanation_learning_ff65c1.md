@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_learning_goals_d057c5_explanation_learning_ff65c1
 parent_basename: self_improvement_tha_c01280_learning_goals_d057c5

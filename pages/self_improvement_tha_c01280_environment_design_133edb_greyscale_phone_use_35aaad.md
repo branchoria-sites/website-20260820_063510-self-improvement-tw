@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_environment_design_133edb_greyscale_phone_use_35aaad
 parent_basename: self_improvement_tha_c01280_environment_design_133edb

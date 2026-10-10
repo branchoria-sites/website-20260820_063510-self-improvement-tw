@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_spending_systems_60275f_real_time_spending_f_f99cc6
 parent_basename: self_improvement_tha_c01280_spending_systems_60275f

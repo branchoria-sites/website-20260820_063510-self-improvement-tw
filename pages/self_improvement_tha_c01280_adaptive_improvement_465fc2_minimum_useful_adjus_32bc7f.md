@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_adaptive_improvement_465fc2_minimum_useful_adjus_32bc7f
 parent_basename: self_improvement_tha_c01280_adaptive_improvement_465fc2

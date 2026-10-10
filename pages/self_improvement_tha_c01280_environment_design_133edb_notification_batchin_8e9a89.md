@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_environment_design_133edb_notification_batchin_8e9a89
 parent_basename: self_improvement_tha_c01280_environment_design_133edb
