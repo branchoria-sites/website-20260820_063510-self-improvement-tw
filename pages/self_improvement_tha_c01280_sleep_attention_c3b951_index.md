@@ -6,7 +6,7 @@ title_full: Sleep and Focus Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /self-improvement-tha-c01280-sleep/
+permalink: /self-improvement-tha-c01280-sleep-sleep-and-focus/
 description: Focused pages that expand on Sleep and Focus.
 date: '2026'
 layout: default
