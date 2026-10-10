@@ -6,7 +6,7 @@ title_full: Design Around Temptation Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /self-improvement-tha-c01280/
+permalink: /self-improvement-tha-c01280-design-around-temptation/
 description: Focused pages that expand on Design Around Temptation.
 date: '2026'
 layout: default

@@ -6,7 +6,7 @@ title_full: Useful Cues Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /self-improvement-tha-c01280/
+permalink: /self-improvement-tha-c01280-useful-cues/
 description: Focused pages that expand on Useful Cues.
 date: '2026'
 layout: default
