@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_evidence_quality_ef04cc_average_effects_hete_944d53
 parent_basename: self_improvement_tha_c01280_evidence_quality_ef04cc

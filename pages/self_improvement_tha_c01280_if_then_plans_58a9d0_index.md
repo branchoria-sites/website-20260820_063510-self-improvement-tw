@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 logical_id: self-improvement-tha-c01280-if-then-plans-58a9d0:index
 identity_source: generated_parent_logical_id
 title: If Then Plans Sub-Topic Index

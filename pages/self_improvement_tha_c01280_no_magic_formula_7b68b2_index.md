@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 logical_id: self-improvement-tha-c01280-no-magic-formula-7b68b2:index
 identity_source: generated_parent_logical_id
 title: No Magic Formula Sub-Topic Index

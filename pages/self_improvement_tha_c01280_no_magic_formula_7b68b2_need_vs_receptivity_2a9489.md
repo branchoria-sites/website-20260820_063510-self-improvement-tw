@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_no_magic_formula_7b68b2_need_vs_receptivity_2a9489
 parent_basename: self_improvement_tha_c01280_no_magic_formula_7b68b2

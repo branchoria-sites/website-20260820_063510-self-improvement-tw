@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_if_then_plans_58a9d0_strategic_automatici_795ae8
 parent_basename: self_improvement_tha_c01280_if_then_plans_58a9d0

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_study_systems_0ce3b8_stable_study_context_401180
 parent_basename: self_improvement_tha_c01280_study_systems_0ce3b8

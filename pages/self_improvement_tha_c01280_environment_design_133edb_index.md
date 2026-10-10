@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 logical_id: self-improvement-tha-c01280-environment-design-133edb:index
 identity_source: generated_parent_logical_id
 title: Design Around Temptation Sub-Topic Index

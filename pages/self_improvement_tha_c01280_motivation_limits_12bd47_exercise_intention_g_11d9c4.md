@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_motivation_limits_12bd47_exercise_intention_g_11d9c4
 parent_basename: self_improvement_tha_c01280_motivation_limits_12bd47

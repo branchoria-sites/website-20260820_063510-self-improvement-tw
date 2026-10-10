@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_motivation_limits_12bd47_autonomous_motivatio_413f6e
 parent_basename: self_improvement_tha_c01280_motivation_limits_12bd47

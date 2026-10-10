@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_small_sustainable_ha_79cbc6_minimum_too_small_368144
 parent_basename: self_improvement_tha_c01280_small_sustainable_ha_79cbc6

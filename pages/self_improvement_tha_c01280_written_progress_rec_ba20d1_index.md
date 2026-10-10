@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 logical_id: self-improvement-tha-c01280-written-progress-rec-ba20d1:index
 identity_source: generated_parent_logical_id
 title: Written Records Sub-Topic Index

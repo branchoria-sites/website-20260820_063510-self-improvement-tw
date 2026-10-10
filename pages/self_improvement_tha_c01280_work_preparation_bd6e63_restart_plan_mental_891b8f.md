@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_work_preparation_bd6e63_restart_plan_mental_891b8f
 parent_basename: self_improvement_tha_c01280_work_preparation_bd6e63

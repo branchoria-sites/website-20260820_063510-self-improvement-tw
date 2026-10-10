@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-20 06:38:54'
 level: 3
 basename: self_improvement_tha_c01280_behaviour_goals_967921_coping_plans_for_obs_a0d56e
 parent_basename: self_improvement_tha_c01280_behaviour_goals_967921
