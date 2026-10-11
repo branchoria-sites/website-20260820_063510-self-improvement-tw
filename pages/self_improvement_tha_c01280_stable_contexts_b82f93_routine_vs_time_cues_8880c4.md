@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 - /stable-contexts/
 nav_short_title: Routine vs Time
-title: Should a Habit Follow a Routine or a Clock?
+title: "Should a Habit Follow a Routine or a Clock? (routine vs time)"
 title_full: Should a Habit Follow a Routine or a Clock? | Stable Contexts
 display_title_short: Routine vs Time
 display_title: Routine vs Time

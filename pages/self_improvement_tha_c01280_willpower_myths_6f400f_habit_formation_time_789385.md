@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 - /the-idea-that-inconsistent-people/
 nav_short_title: Habit Timing
-title: How Long Does a Habit Really Take?
+title: "How Long Does a Habit Really Take? (habit timing)"
 title_full: How Long Does a Habit Really Take? | The Idea That Inconsistent People Simply Need “more Willpower”
 display_title_short: Habit Timing
 display_title: Habit Timing
