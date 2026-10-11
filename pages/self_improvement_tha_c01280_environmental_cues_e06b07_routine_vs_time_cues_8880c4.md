@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 - /useful-cues/
 nav_short_title: Routine or Time
-title: Should a Habit Follow a Routine or a Clock?
+title: "Should a Habit Follow a Routine or a Clock? (routine or time)"
 title_full: Should a Habit Follow a Routine or a Clock? | Useful Cues
 display_title_short: Routine or Time
 display_title: Routine or Time

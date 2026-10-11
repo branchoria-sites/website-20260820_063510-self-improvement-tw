@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 - /consistency/
 nav_short_title: Stable Context
-title: Why Doing It in the Same Context Helps
+title: "Why Doing It in the Same Context Helps (stable context)"
 title_full: Why Doing It in the Same Context Helps | Consistency
 display_title_short: Stable Context
 display_title: Stable Context

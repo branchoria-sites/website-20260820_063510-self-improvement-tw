@@ -65,7 +65,7 @@ permalink: /habit-timelines/
 sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Habit Timelines
-title: How Long Does a Habit Really Take?
+title: "How Long Does a Habit Really Take? (habit timelines)"
 title_full: How Long Does a Habit Really Take? | Better Habits
 display_title_short: Habit Timelines
 display_title: Habit Timelines

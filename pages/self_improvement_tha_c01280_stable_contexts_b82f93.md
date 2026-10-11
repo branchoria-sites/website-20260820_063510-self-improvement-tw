@@ -65,7 +65,7 @@ permalink: /stable-contexts/
 sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Stable Contexts
-title: Why Doing It in the Same Context Helps
+title: "Why Doing It in the Same Context Helps (stable contexts)"
 title_full: Why Doing It in the Same Context Helps | Better Habits
 display_title_short: Stable Contexts
 display_title: Stable Contexts
